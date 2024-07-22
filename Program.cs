@@ -1,4 +1,4 @@
-﻿using Melancholy;
+using Melancholy;
 using Newtonsoft.Json;
 
 const string SettingsFile = "settings.json";
@@ -33,29 +33,30 @@ PopulateSettings:
     Extras.Settings.PakPath = Extras.PromptInput("Provide path to your paks folder: ");
     Extras.Settings.AesKey = Extras.PromptInput("Provide AES key: ");
 
-    string directoryPath = AppDomain.CurrentDomain.BaseDirectory;
+    string directoryPath = AppContext.BaseDirectory;
     var usmapFiles = Directory.GetFiles(directoryPath, "*.usmap");
 
     if (usmapFiles.Length == 0)
-        throw new Exception($"No .usmap files found, contact @bhvr for the latest file or place your own in {directoryPath}");
+        Extras.Settings.MappingsPath = Extras.PromptInput("Provide DBD Mapping file: ");
+	else {
+		Console.WriteLine("Select a mappings file by entering its number:");
+		for (int i = 0; i < usmapFiles.Length; i++)
+		{
+			Console.WriteLine($"{i + 1}. {Path.GetFileName(usmapFiles[i])}");
+		}
 
-    Console.WriteLine("Select a mappings file by entering its number:");
-    for (int i = 0; i < usmapFiles.Length; i++)
-    {
-        Console.WriteLine($"{i + 1}. {Path.GetFileName(usmapFiles[i])}");
-    }
+		int choice = 0;
+		while (true)
+		{
+			Console.Write("Enter your choice (number): ");
+			if (int.TryParse(Console.ReadLine(), out choice) && choice > 0 && choice <= usmapFiles.Length) break;
+			Console.WriteLine("Invalid choice, try again...");
+		}
 
-    int choice = 0;
-    while (true)
-    {
-        Console.Write("Enter your choice (number): ");
-        if (int.TryParse(Console.ReadLine(), out choice) && choice > 0 && choice <= usmapFiles.Length) break;
-        Console.WriteLine("Invalid choice, try again...");
-    }
-
-    string selectedFile = usmapFiles[choice - 1];
-    Extras.Settings.MappingsPath = selectedFile;
-
+		string selectedFile = usmapFiles[choice - 1];
+		Extras.Settings.MappingsPath = selectedFile;
+	}
+    
     File.WriteAllText(SettingsFile, JsonConvert.SerializeObject(Extras.Settings, Formatting.Indented));
 
 SkipSettings:
