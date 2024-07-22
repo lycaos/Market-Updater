@@ -51,7 +51,7 @@ namespace Melancholy
 
         private static void BuildJson()
         {
-            inventory = [];
+            inventory.Clear();
 
             marketObj = new Classes.Market
             {

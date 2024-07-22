@@ -1,4 +1,4 @@
-using Melancholy;
+﻿using Melancholy;
 using Newtonsoft.Json;
 
 const string SettingsFile = "settings.json";
@@ -30,10 +30,7 @@ try
     }
 
 PopulateSettings:
-    Extras.Settings.PakPath = Extras.PromptInput("Provide path to your paks folder: ");
-    Extras.Settings.AesKey = Extras.PromptInput("Provide AES key: ");
-
-    string directoryPath = AppContext.BaseDirectory;
+	string directoryPath = AppContext.BaseDirectory;
     var usmapFiles = Directory.GetFiles(directoryPath, "*.usmap");
 
     if (usmapFiles.Length == 0)
@@ -56,11 +53,13 @@ PopulateSettings:
 		string selectedFile = usmapFiles[choice - 1];
 		Extras.Settings.MappingsPath = selectedFile;
 	}
-    
+	
+    Extras.Settings.PakPath = Extras.PromptInput("Provide path to your paks folder: ");
+    Extras.Settings.AesKey = Extras.PromptInput("Provide AES key: ");
+	
     File.WriteAllText(SettingsFile, JsonConvert.SerializeObject(Extras.Settings, Formatting.Indented));
 
 SkipSettings:
-    Console.Clear();
     Extras.Header();
 
     Console.WriteLine("Doing CUE4Parse stuffs...");
@@ -68,47 +67,56 @@ SkipSettings:
     Cue4Parse.Initialize();
     Cue4Parse.CdnAccessKey = Cue4Parse.GetAccessKey();
     Cue4Parse.Get_Files();
+    if(Classes.Ids.DlcIds.Count < 79)
+        Classes.Ids.DlcIds.Clear();
+        Extras.populateDlcs();
 
     if (Cue4Parse.IsListEmpty())
         throw new Exception("Mappings file outdated, contact @bhvr on Discord for the new mappings file.");
 
-    Market.ItemAmount = Extras.PromptIntInput("Enter desired item amount (0 for random): ");
-    
-    Market.PrestigeLevel = Extras.PromptIntInput("Enter desired prestige for characters (0 for random): ");
-    if (Market.PrestigeLevel == 0)
+    Classes.Choices choices = Extras.LoadChoices("choices.json");
+
+    if(!choices.LoadedFromFile || (choices.LoadedFromFile && Extras.PromptOptionInput("Do you want to load your previous choices? (y/N): ") == 'n'))
     {
-        Market.PrestigeLevelMinimum = Extras.PromptIntInput("Enter minimum desired prestige: ");
-        Market.PrestigeLevelMaximum = Extras.PromptIntInput("Enter maximum desired prestige: ");
+        choices.ItemAmount = Market.ItemAmount = Extras.PromptIntInput("Enter desired item amount (0 for random): ");
+
+        choices.PrestigeLevel = Market.PrestigeLevel = Extras.PromptIntInput("Enter desired prestige for characters (0 for random): ");
+        if (Market.PrestigeLevel == 0)
+        {
+            choices.PrestigeLevelMinimum = Market.PrestigeLevelMinimum = Extras.PromptIntInput("Enter minimum desired prestige: ");
+            choices.PrestigeLevelMaximum = Market.PrestigeLevelMaximum = Extras.PromptIntInput("Enter maximum desired prestige: ");
+        }
+
+        choices.PlayerLevel = Player.PlayerLevel = Extras.PromptIntInput("Enter desired player level: ");
+        choices.DevotionLevel = Player.DevotionLevel = Extras.PromptIntInput("Enter desired devotion level: ");
+
+        Extras.Header();
+
+        char ShouldHaveNonInventoryItems = Extras.PromptOptionInput("Should non-inventory items be included such as Onryo Tape, Wesker Spray, etc...? (y/N): ");
+        choices.AddNonInventoryItems = Extras.AddNonInventoryItems = ShouldHaveNonInventoryItems is 'y';
+
+        char ShouldHaveRetiredOfferings = Extras.PromptOptionInput("Should retired offerings be included such as killer splinters? (y/N): ");
+        choices.AddRetiredOfferings = Extras.AddRetiredOfferings = ShouldHaveRetiredOfferings is 'y';
+
+        char ShouldHaveEventItems = Extras.PromptOptionInput("Should event items be included such as anniversary cakes? (Y/n): ");
+        choices.AddEventItems = Extras.AddEventItems = ShouldHaveEventItems is 'y';
+
+        char ShouldHaveBannersBadges = Extras.PromptOptionInput("Should banners and badges be included? (Y/n): ");
+        choices.AddBannersBadges = Extras.AddBannersBadges = ShouldHaveBannersBadges is 'y';
+
+        char ShouldHaveLegacy = Extras.PromptOptionInput("Should legacy (pre 2016) prestige clothing be added? (Y/n): ");
+        choices.AddLegacy = Extras.AddLegacy = ShouldHaveLegacy is 'y';
+
+        char ShouldHaveScaryItems = Extras.PromptOptionInput("Should \"scary\" things be included (like dev only items etc.)? (y/N): ");
+        choices.AddScaryItems = Extras.AddScaryItems = ShouldHaveScaryItems is 'y';
+    
+        Extras.SaveChoices("choices.json", choices);
     }
-    
-    Player.PlayerLevel = Extras.PromptIntInput("Enter desired player level: ");
-    Player.DevotionLevel = Extras.PromptIntInput("Enter desired devotion level: ");
 
-    Console.Clear();
     Extras.Header();
 
-    string ShouldHaveNonInventoryItems = Extras.PromptOptionInput("Should non-inventory items be included such as Onryo Tape, Wesker Spray, etc...? (y/N): ");
-    Extras.AddNonInventoryItems = ShouldHaveNonInventoryItems is "yes" or "y";
-    
-    string ShouldHaveRetiredOfferings = Extras.PromptOptionInput("Should retired offerings be included such as killer splinters? (y/N): ");
-    Extras.AddRetiredOfferings = ShouldHaveRetiredOfferings is "yes" or "y";
-    
-    string ShouldHaveEventItems = Extras.PromptOptionInput("Should event items be included such as anniversary cakes? (Y/n): ");
-    Extras.AddEventItems = ShouldHaveEventItems is not ("no" or "n");
-   
-    string ShouldHaveBannersBadges = Extras.PromptOptionInput("Should banners and badges be included? (Y/n): ");
-    Extras.AddBannersBadges = ShouldHaveBannersBadges is not ("no" or "n");
-
-    string ShouldHaveLegacy = Extras.PromptOptionInput("Should legacy (pre 2016) prestige clothing be added? (Y/n): ");
-    Extras.AddLegacy = ShouldHaveLegacy is not ("no" or "n");
-
-    string ShouldHaveScaryItems = Extras.PromptOptionInput("Should \"scary\" things be included (like dev only items etc.)? (y/N): ");
-    Extras.AddScaryItems = ShouldHaveScaryItems is ("yes" or "y");
-
-    Console.Clear();
-    Extras.Header();
-
-    await Cdn.GetCdnFiles();
+    if(Extras.PromptOptionInput("Do you want to generate Catalog and Killswitch? (y/N): ") == 'y')
+        await Cdn.GetCdnFiles();
 
     await Extras.MakeFile(Classes.Ids.CosmeticIds, "Cosmetics.json");
     await Extras.MakeFile(Classes.Ids.OutfitIds, "Outfits.json");
@@ -130,6 +138,8 @@ SkipSettings:
     await GetAll.Generate_GetAll();
     Console.WriteLine("GetAll.json generated");
 
+    await Bloodweb.Generate_Bloodweb("BloodwebNoPerks.json", false);
+    Console.WriteLine("BloodwebNoPerks.json generated");
     await Bloodweb.Generate_Bloodweb();
     Console.WriteLine("Bloodweb.json generated");
 

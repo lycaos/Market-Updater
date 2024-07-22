@@ -1,4 +1,6 @@
-﻿namespace Melancholy
+﻿using Newtonsoft.Json;
+
+namespace Melancholy
 {
     public static class Classes
     {
@@ -159,7 +161,7 @@
             public string CharacterName { get; set; } = "";
             public int BloodwebLevel { get; set; } = 50;
             public int PrestigeLevel { get; set; } = 10;
-            public Bloodweb BloodWebData { get; set; } = BloodwebGenerator.Make_Bloodweb("EPlayerRole::VE_Camper", "", false);
+            public Bloodweb BloodWebData { get; set; } = null;
             public List<ItemBloodweb> CharacterItems { get; set; } = BloodwebGenerator.TivoTigs;
             public int LegacyPrestigeLevel { get; set; } = 3;
         }
@@ -195,6 +197,25 @@
         public class PrestigeData<T>
         {
             public List<T> List { get; set; } = [];
+        }
+
+        public class Choices
+        {
+            public int ItemAmount { get; set; }
+            public int PrestigeLevel { get; set; }
+            public int PrestigeLevelMinimum { get; set; }
+            public int PrestigeLevelMaximum { get; set; }
+            public int PlayerLevel { get; set; }
+            public int DevotionLevel { get; set; }
+            public bool AddNonInventoryItems { get; set; }
+            public bool AddRetiredOfferings { get; set; }
+            public bool AddEventItems { get; set; }
+            public bool AddBannersBadges { get; set; }
+            public bool AddLegacy { get; set; }
+            public bool AddScaryItems { get; set; }
+            
+            [JsonIgnore]
+            public bool LoadedFromFile { get; set; }
         }
     }
 }
