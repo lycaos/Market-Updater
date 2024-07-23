@@ -5,7 +5,6 @@ using CUE4Parse.UE4.Objects.Core.Misc;
 using CUE4Parse.UE4.Versions;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
-using System.Drawing.Printing;
 using System.Dynamic;
 using System.Text.RegularExpressions;
 
@@ -135,38 +134,41 @@ namespace Melancholy
                         switch (type)
                         {
                             case "CustomizationItemDB":
-                                string customizationId = property?["CustomizationId"]?.ToString();
+                                string customizationId = property?["customizationId"]?.ToString();
                                 string localizedString =
                                     property?["UIData"]?["DisplayName"]?["LocalizedString"]?.ToString();
                                 
                                 Classes.Customization customization = new()
                                 {
-                                    CosmeticId = property?["CustomizationId"]?.ToString() ?? string.Empty,
+                                    CosmeticId = property?["customizationId"]?.ToString() ?? string.Empty,
                                     CosmeticName =
                                         property?["UIData"]?["DisplayName"]?["LocalizedString"]?.ToString() ??
                                         string.Empty,
                                     CosmeticDescription =
                                         property?["UIData"]?["Description"]?["LocalizedString"]?.ToString() ??
                                         string.Empty,
-                                    Category = property?["Category"]?.ToString() ?? string.Empty,
+                                    Category = property?["category"]?.ToString() ?? string.Empty,
                                     AssociatedCharacterIndex =
                                         property?["AssociatedCharacter"]?.ToString() ?? string.Empty,
                                     Rarity = property?["Rarity"]?.ToString() ?? string.Empty,
                                     IsInStore = property?["IsInStore"]?.ToString() ?? string.Empty,
-                                    EventId = property?["EventId"]?.ToString() ?? string.Empty,
+                                    EventId = property?["eventID"]?.ToString() ?? string.Empty,
                                     Availability = property?["Availability"]?["ItemAvailability"]?.ToString() ??
                                                    string.Empty,
                                     FilePath = item ?? string.Empty,
                                     IsLegacy = (property?["InclusionVersion"]?.ToString() == "Legacy"
                                                 && Regex.IsMatch(property?["UIData"]?["DisplayName"]?["LocalizedString"]?.ToString(), @"Legacy.*\b(I|II|III)\b", RegexOptions.IgnoreCase)),
-                                    IsExclusive = exclusiveStrings.Contains(customizationId)
+                                    IsExclusive = (exclusiveStrings.Any(s => customizationId.Contains(s)
+                                                                             && !customizationId.Contains("Charity")))
+                                                  || (localizedString.Contains("Twitchy")
+                                                      && !(localizedString.Contains("Flame") || localizedString.Contains("Medkit")))
                                 };
                                 if (!IsInBlacklist(customization.CosmeticId)) Classes.Ids.CosmeticIds.Add(customization);
                                 break;
                             case "OutfitDB":
                                 Classes.Outfit outfit = new()
                                 {
-                                    OutfitId = property?["Id"]?.ToString() ?? string.Empty,
+                                    OutfitId = property?["ID"]?.ToString() ?? string.Empty,
                                     OutfitName = property?["UIData"]?["DisplayName"]?["LocalizedString"]?.ToString() ??
                                                  string.Empty,
                                     OutfitDescription =
@@ -205,7 +207,7 @@ namespace Melancholy
                                         Name = property?["UIData"]?["DisplayName"]?["LocalizedString"]?.ToString() ?? string.Empty,
                                         FilePath = item ?? string.Empty,
                                         ShouldBeInInventory = property?["Inventory"]?.Value<bool>() ?? true,
-                                        EventId = property?["EventId"]?.ToString() ?? string.Empty
+                                        EventId = property?["eventID"]?.ToString() ?? string.Empty
                                     };
                                     if (!IsInBlacklist(itemData.ItemId)) Classes.Ids.ItemIds.Add(itemData);
                                 }
@@ -215,13 +217,13 @@ namespace Melancholy
                                 {
                                     ItemId = property?["ItemId"]?.ToString() ?? string.Empty,
                                     CharacterType = property?["Role"]?.ToString() ?? string.Empty,
-                                    CharacterDefaultItem = property?["ParentItem"]?["ItemIDs"]?.Count() > 0 ? (property?["ParentItem"]?["ItemIDs"]?[0]?.ToString() ?? string.Empty) : string.Empty,
+                                    CharacterDefaultItem = property?["ParentItem"]?["itemIds"]?.Count() > 0 ? (property?["ParentItem"]?["itemIds"]?[0]?.ToString() ?? string.Empty) : string.Empty,
                                     Rarity = property?["Rarity"]?.ToString() ?? string.Empty,
                                     Availability = property?["Availability"]?["ItemAvailability"]?.ToString() ?? string.Empty,
                                     Name = property?["UIData"]?["DisplayName"]?["LocalizedString"]?.ToString() ?? string.Empty,
                                     FilePath = item ?? string.Empty,
                                     ShouldBeInInventory = property?["Inventory"]?.Value<bool>() ?? true,
-                                    EventId = property?["EventId"]?.ToString() ?? string.Empty
+                                    EventId = property?["eventID"]?.ToString() ?? string.Empty
                                 };
                                 if (!IsInBlacklist(itemAddon.ItemId)) Classes.Ids.AddonIds.Add(itemAddon);
                                 break;
@@ -235,7 +237,7 @@ namespace Melancholy
                                     Name = property?["UIData"]?["DisplayName"]?["LocalizedString"]?.ToString() ?? string.Empty,
                                     FilePath = item ?? string.Empty,
                                     ShouldBeInInventory = property?["Inventory"]?.Value<bool>() ?? true,
-                                    EventId = property?["EventId"]?.ToString() ?? string.Empty
+                                    EventId = property?["eventID"]?.ToString() ?? string.Empty
                                 };
                                 if (!IsInBlacklist(offering.ItemId)) Classes.Ids.OfferingIds.Add(offering);
                                 break;
@@ -249,7 +251,7 @@ namespace Melancholy
                                     Name = property?["UIData"]?["DisplayName"]?["LocalizedString"]?.ToString() ?? string.Empty,
                                     FilePath = item ?? string.Empty,
                                     ShouldBeInInventory = property?["Inventory"]?.Value<bool>() ?? true,
-                                    EventId = property?["EventId"]?.ToString() ?? string.Empty
+                                    EventId = property?["eventID"]?.ToString() ?? string.Empty
                                 };
                                 if (!IsInBlacklist(perk.ItemId)) Classes.Ids.PerkIds.Add(perk);
                                 break;
