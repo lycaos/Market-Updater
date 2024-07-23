@@ -1,0 +1,2642 @@
+[
+  {
+    "ItemId": "K36P01",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Weave Attunement",
+    "FilePath": "DeadByDaylight/Plugins/Runtime/Bhvr/Dlc/TheK36/Content/Data/Game/PerkDB.uasset"
+  },
+  {
+    "ItemId": "K36P02",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Languid Touch",
+    "FilePath": "DeadByDaylight/Plugins/Runtime/Bhvr/Dlc/TheK36/Content/Data/Game/PerkDB.uasset"
+  },
+  {
+    "ItemId": "K36P03",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Dark Arrogance",
+    "FilePath": "DeadByDaylight/Plugins/Runtime/Bhvr/Dlc/TheK36/Content/Data/Game/PerkDB.uasset"
+  },
+  {
+    "ItemId": "BBQAndChilli",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Barbecue & Chili",
+    "FilePath": "DeadByDaylight/Plugins/Runtime/Bhvr/DBDCharacters/K09/Content/Data/Game/PerkDB.uasset"
+  },
+  {
+    "ItemId": "InTheDark",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Knock Out",
+    "FilePath": "DeadByDaylight/Plugins/Runtime/Bhvr/DBDCharacters/K09/Content/Data/Game/PerkDB.uasset"
+  },
+  {
+    "ItemId": "FranklinsLoss",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Franklin's Demise",
+    "FilePath": "DeadByDaylight/Plugins/Runtime/Bhvr/DBDCharacters/K09/Content/Data/Game/PerkDB.uasset"
+  },
+  {
+    "ItemId": "S42P01",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Mirrored Illusion",
+    "FilePath": "DeadByDaylight/Plugins/Runtime/Bhvr/DBDCharacters/S42/Content/Data/Game/PerkDB.uasset"
+  },
+  {
+    "ItemId": "S42P02",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Bardic Inspiration",
+    "FilePath": "DeadByDaylight/Plugins/Runtime/Bhvr/DBDCharacters/S42/Content/Data/Game/PerkDB.uasset"
+  },
+  {
+    "ItemId": "S42P03",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Still Sight",
+    "FilePath": "DeadByDaylight/Plugins/Runtime/Bhvr/DBDCharacters/S42/Content/Data/Game/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Discordance",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Discordance",
+    "FilePath": "DeadByDaylight/Plugins/Runtime/Bhvr/DBDCharacters/K14/Content/Data/Game/PerkDB.uasset"
+  },
+  {
+    "ItemId": "MadGrit",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Mad Grit",
+    "FilePath": "DeadByDaylight/Plugins/Runtime/Bhvr/DBDCharacters/K14/Content/Data/Game/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Ironmaiden",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Iron Maiden",
+    "FilePath": "DeadByDaylight/Plugins/Runtime/Bhvr/DBDCharacters/K14/Content/Data/Game/PerkDB.uasset"
+  },
+  {
+    "ItemId": "BloodWarden",
+    "Rarity": "EItemRarity::Uncommon",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Blood Warden",
+    "FilePath": "DeadByDaylight/Plugins/Runtime/Bhvr/DBDCharacters/K10/Content/Data/Game/PerkDB.uasset"
+  },
+  {
+    "ItemId": "FireUp",
+    "Rarity": "EItemRarity::Uncommon",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Fire Up",
+    "FilePath": "DeadByDaylight/Plugins/Runtime/Bhvr/DBDCharacters/K10/Content/Data/Game/PerkDB.uasset"
+  },
+  {
+    "ItemId": "RememberMe",
+    "Rarity": "EItemRarity::Uncommon",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Remember Me",
+    "FilePath": "DeadByDaylight/Plugins/Runtime/Bhvr/DBDCharacters/K10/Content/Data/Game/PerkDB.uasset"
+  },
+  {
+    "ItemId": "S43P01",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Finesse",
+    "FilePath": "DeadByDaylight/Plugins/Runtime/Bhvr/DBDCharacters/S43/Content/Data/Game/PerkDB.uasset"
+  },
+  {
+    "ItemId": "S43P02",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Hardened",
+    "FilePath": "DeadByDaylight/Plugins/Runtime/Bhvr/DBDCharacters/S43/Content/Data/Game/PerkDB.uasset"
+  },
+  {
+    "ItemId": "S43P03",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Specialist",
+    "FilePath": "DeadByDaylight/Plugins/Runtime/Bhvr/DBDCharacters/S43/Content/Data/Game/PerkDB.uasset"
+  },
+  {
+    "ItemId": "HangmansTrick",
+    "Rarity": "EItemRarity::Uncommon",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Scourge Hook: Hangman's Trick",
+    "FilePath": "DeadByDaylight/Plugins/Runtime/Bhvr/DBDCharacters/K11/Content/Data/Game/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Surveillance",
+    "Rarity": "EItemRarity::Uncommon",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Surveillance",
+    "FilePath": "DeadByDaylight/Plugins/Runtime/Bhvr/DBDCharacters/K11/Content/Data/Game/PerkDB.uasset"
+  },
+  {
+    "ItemId": "MakeYourChoice",
+    "Rarity": "EItemRarity::Uncommon",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Make your Choice",
+    "FilePath": "DeadByDaylight/Plugins/Runtime/Bhvr/DBDCharacters/K11/Content/Data/Game/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Ace_In_The_Hole",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Ace in the Hole",
+    "FilePath": "DeadByDaylight/Content/Data/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Adrenaline",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Adrenaline",
+    "FilePath": "DeadByDaylight/Content/Data/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Agitation",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Agitation",
+    "FilePath": "DeadByDaylight/Content/Data/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Bitter_Murmur",
+    "Rarity": "EItemRarity::UltraRare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Bitter Murmur",
+    "FilePath": "DeadByDaylight/Content/Data/PerkDB.uasset"
+  },
+  {
+    "ItemId": "BloodHound",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Bloodhound",
+    "FilePath": "DeadByDaylight/Content/Data/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Bond",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Bond",
+    "FilePath": "DeadByDaylight/Content/Data/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Botany_Knowledge",
+    "Rarity": "EItemRarity::Uncommon",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Botany Knowledge",
+    "FilePath": "DeadByDaylight/Content/Data/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Brutal_Strength",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Brutal Strength",
+    "FilePath": "DeadByDaylight/Content/Data/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Calm_Spirit",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Calm Spirit",
+    "FilePath": "DeadByDaylight/Content/Data/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Dark_Sense",
+    "Rarity": "EItemRarity::UltraRare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Dark Sense",
+    "FilePath": "DeadByDaylight/Content/Data/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Deerstalker",
+    "Rarity": "EItemRarity::Uncommon",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Deerstalker",
+    "FilePath": "DeadByDaylight/Content/Data/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Deja_Vu",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Deja Vu",
+    "FilePath": "DeadByDaylight/Content/Data/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Distressing",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Distressing",
+    "FilePath": "DeadByDaylight/Content/Data/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Empathy",
+    "Rarity": "EItemRarity::Uncommon",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Empathy",
+    "FilePath": "DeadByDaylight/Content/Data/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Enduring",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Enduring",
+    "FilePath": "DeadByDaylight/Content/Data/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Hex_Devour_Hope",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Hex: Devour Hope",
+    "FilePath": "DeadByDaylight/Content/Data/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Hex_Ruin",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Hex: Ruin",
+    "FilePath": "DeadByDaylight/Content/Data/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Hex_The_Third_Seal",
+    "Rarity": "EItemRarity::Uncommon",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Hex: The Third Seal",
+    "FilePath": "DeadByDaylight/Content/Data/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Hex_Thrill_Of_The_Hunt",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Hex: Thrill of the Hunt",
+    "FilePath": "DeadByDaylight/Content/Data/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Hope",
+    "Rarity": "EItemRarity::VeryRare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Hope",
+    "FilePath": "DeadByDaylight/Content/Data/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Insidious",
+    "Rarity": "EItemRarity::Uncommon",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Insidious",
+    "FilePath": "DeadByDaylight/Content/Data/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Iron_Grasp",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Iron Grasp",
+    "FilePath": "DeadByDaylight/Content/Data/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Iron_Will",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Iron Will",
+    "FilePath": "DeadByDaylight/Content/Data/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Kindred",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Kindred",
+    "FilePath": "DeadByDaylight/Content/Data/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Leader",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Leader",
+    "FilePath": "DeadByDaylight/Content/Data/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Lightborn",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Lightborn",
+    "FilePath": "DeadByDaylight/Content/Data/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Lightweight",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Lightweight",
+    "FilePath": "DeadByDaylight/Content/Data/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Monstrous_Shrine",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Scourge Hook: Monstrous Shrine",
+    "FilePath": "DeadByDaylight/Content/Data/PerkDB.uasset"
+  },
+  {
+    "ItemId": "No_One_Escapes_Death",
+    "Rarity": "EItemRarity::UltraRare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Hex: No One Escapes Death",
+    "FilePath": "DeadByDaylight/Content/Data/PerkDB.uasset"
+  },
+  {
+    "ItemId": "No_One_Left_Behind",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "No One Left Behind",
+    "FilePath": "DeadByDaylight/Content/Data/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Open_Handed",
+    "Rarity": "EItemRarity::Uncommon",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Open-Handed",
+    "FilePath": "DeadByDaylight/Content/Data/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Plunderers_Instinct",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Plunderer's Instinct",
+    "FilePath": "DeadByDaylight/Content/Data/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Predator",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Predator",
+    "FilePath": "DeadByDaylight/Content/Data/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Premonition",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Premonition",
+    "FilePath": "DeadByDaylight/Content/Data/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Prove_Thyself",
+    "Rarity": "EItemRarity::VeryRare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Prove Thyself",
+    "FilePath": "DeadByDaylight/Content/Data/PerkDB.uasset"
+  },
+  {
+    "ItemId": "QuickQuiet",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Quick & Quiet",
+    "FilePath": "DeadByDaylight/Content/Data/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Resilience",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Resilience",
+    "FilePath": "DeadByDaylight/Content/Data/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Saboteur",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Saboteur",
+    "FilePath": "DeadByDaylight/Content/Data/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Self_Care",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Self-Care",
+    "FilePath": "DeadByDaylight/Content/Data/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Shadowborn",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Shadowborn",
+    "FilePath": "DeadByDaylight/Content/Data/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Slippery_Meat",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Slippery Meat",
+    "FilePath": "DeadByDaylight/Content/Data/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Sloppy_Butcher",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Sloppy Butcher",
+    "FilePath": "DeadByDaylight/Content/Data/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Small_Game",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Small Game",
+    "FilePath": "DeadByDaylight/Content/Data/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Spies_From_The_Shadows",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Spies from the Shadows",
+    "FilePath": "DeadByDaylight/Content/Data/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Spine_Chill",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Spine Chill",
+    "FilePath": "DeadByDaylight/Content/Data/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Sprint_Burst",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Sprint Burst",
+    "FilePath": "DeadByDaylight/Content/Data/PerkDB.uasset"
+  },
+  {
+    "ItemId": "This_Is_Not_Happening",
+    "Rarity": "EItemRarity::Uncommon",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "This Is Not Happening",
+    "FilePath": "DeadByDaylight/Content/Data/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Tinkerer",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Tinkerer",
+    "FilePath": "DeadByDaylight/Content/Data/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Unnerving_Presence",
+    "Rarity": "EItemRarity::VeryRare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Unnerving Presence",
+    "FilePath": "DeadByDaylight/Content/Data/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Unrelenting",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Unrelenting",
+    "FilePath": "DeadByDaylight/Content/Data/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Up_The_Ante",
+    "Rarity": "EItemRarity::UltraRare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Up the Ante",
+    "FilePath": "DeadByDaylight/Content/Data/PerkDB.uasset"
+  },
+  {
+    "ItemId": "WellMakeIt",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "We'll make it",
+    "FilePath": "DeadByDaylight/Content/Data/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Whispers",
+    "Rarity": "EItemRarity::UltraRare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Whispers",
+    "FilePath": "DeadByDaylight/Content/Data/PerkDB.uasset"
+  },
+  {
+    "ItemId": "BorrowedTime",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Borrowed Time",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/L4D/PerkDB.uasset"
+  },
+  {
+    "ItemId": "SelfSufficient",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Unbreakable",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/L4D/PerkDB.uasset"
+  },
+  {
+    "ItemId": "LeftBehind",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Left Behind",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/L4D/PerkDB.uasset"
+  },
+  {
+    "ItemId": "SoleSurvivor",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Sole Survivor",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/DLC2/PerkDB.uasset"
+  },
+  {
+    "ItemId": "DecisiveStrike",
+    "Rarity": "EItemRarity::Uncommon",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Decisive Strike",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/DLC2/PerkDB.uasset"
+  },
+  {
+    "ItemId": "ObjectOfObsession",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Object of Obsession",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/DLC2/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Save_The_Best_For_Last",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Save the best for last",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/DLC2/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Dying_Light",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Dying Light",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/DLC2/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Play_With_Your_Food",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Play With Your Food",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/DLC2/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Coulrophobia",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Coulrophobia",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Guam/PerkDB.uasset"
+  },
+  {
+    "ItemId": "pop_goes_the_weasel",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Pop Goes the Weasel",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Guam/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Bamboozle",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Bamboozle",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Guam/PerkDB.uasset"
+  },
+  {
+    "ItemId": "WindowsOfOpportunity",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Windows of Opportunity",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Guam/PerkDB.uasset"
+  },
+  {
+    "ItemId": "BoilOver",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Boil Over",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Guam/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Dance_with_me",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Dance With Me",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Guam/PerkDB.uasset"
+  },
+  {
+    "ItemId": "K22P01",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Hoarder",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Aurora/PerkDB.uasset"
+  },
+  {
+    "ItemId": "K22P02",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Oppression",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Aurora/PerkDB.uasset"
+  },
+  {
+    "ItemId": "K22P03",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Coup de Grâce",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Aurora/PerkDB.uasset"
+  },
+  {
+    "ItemId": "S24P01",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Appraisal",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Aurora/PerkDB.uasset"
+  },
+  {
+    "ItemId": "S24P02",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Deception",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Aurora/PerkDB.uasset"
+  },
+  {
+    "ItemId": "S24P03",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Power Struggle",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Aurora/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Tenacity",
+    "Rarity": "EItemRarity::Uncommon",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Tenacity",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Finland/PerkDB.uasset"
+  },
+  {
+    "ItemId": "DetectivesHunch",
+    "Rarity": "EItemRarity::Uncommon",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Detective's Hunch",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Finland/PerkDB.uasset"
+  },
+  {
+    "ItemId": "StakeOut",
+    "Rarity": "EItemRarity::Uncommon",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Stake Out",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Finland/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Balanced_Landing",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Balanced Landing",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/TheNurse/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Urban_Evasion",
+    "Rarity": "EItemRarity::Uncommon",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Urban Evasion",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/TheNurse/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Streetwise",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Streetwise",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/TheNurse/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Thanatophobia",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Thanatophobia",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/TheNurse/PerkDB.uasset"
+  },
+  {
+    "ItemId": "NurseCalling",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "A Nurse's Calling",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/TheNurse/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Stridor",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Stridor",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/TheNurse/PerkDB.uasset"
+  },
+  {
+    "ItemId": "S28P01",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Clairvoyance",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Hubble/PerkDB.uasset"
+  },
+  {
+    "ItemId": "S28P02",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Boon: Circle of Healing",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Hubble/PerkDB.uasset"
+  },
+  {
+    "ItemId": "S28P03",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Boon: Shadow Step",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Hubble/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Technician",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Technician",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/DLC4/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Lithe",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Lithe",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/DLC4/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Alert",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Alert",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/DLC4/PerkDB.uasset"
+  },
+  {
+    "ItemId": "OverwhelmingPresence",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Overwhelming Presence",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/DLC4/PerkDB.uasset"
+  },
+  {
+    "ItemId": "MonitorAndAbuse",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Monitor & Abuse",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/DLC4/PerkDB.uasset"
+  },
+  {
+    "ItemId": "GeneratorOvercharge",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Overcharge",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/DLC4/PerkDB.uasset"
+  },
+  {
+    "ItemId": "K34P01",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Hex: Two Can Play ",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Yerkes/PerkDB.uasset"
+  },
+  {
+    "ItemId": "K34P02",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Friends ‘Til the End ",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Yerkes/PerkDB.uasset"
+  },
+  {
+    "ItemId": "K34P03",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Batteries Included ",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Yerkes/PerkDB.uasset"
+  },
+  {
+    "ItemId": "ImAllEars",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "I'm All Ears",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Oman/PerkDB.uasset"
+  },
+  {
+    "ItemId": "ThrillingTremors",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Thrilling Tremors",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Oman/PerkDB.uasset"
+  },
+  {
+    "ItemId": "FurtiveChase",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Furtive Chase",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Oman/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Diversion",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Diversion",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Haiti/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Deliverance",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Deliverance",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Haiti/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Autodidact",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Autodidact",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Haiti/PerkDB.uasset"
+  },
+  {
+    "ItemId": "SpiritFury",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Spirit Fury",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Haiti/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Hex_HauntedGround",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Hex: Haunted Ground",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Haiti/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Rancor",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Rancor",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Haiti/PerkDB.uasset"
+  },
+  {
+    "ItemId": "S32P01",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Wiretap",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Orion/PerkDB.uasset"
+  },
+  {
+    "ItemId": "S32P02",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Reactive Healing",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Orion/PerkDB.uasset"
+  },
+  {
+    "ItemId": "S32P03",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Low Profile",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Orion/PerkDB.uasset"
+  },
+  {
+    "ItemId": "K29P01",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Superior Anatomy",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Orion/PerkDB.uasset"
+  },
+  {
+    "ItemId": "K29P02",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Awakened Awareness",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Orion/PerkDB.uasset"
+  },
+  {
+    "ItemId": "K29P03",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Terminus",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Orion/PerkDB.uasset"
+  },
+  {
+    "ItemId": "S33P01",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Better Than New",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Orion/PerkDB.uasset"
+  },
+  {
+    "ItemId": "S33P02",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Reassurance",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Orion/PerkDB.uasset"
+  },
+  {
+    "ItemId": "S33P03",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Hyperfocus",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Orion/PerkDB.uasset"
+  },
+  {
+    "ItemId": "ZanshinTactics",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Zanshin Tactics",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Sweden/PerkDB.uasset"
+  },
+  {
+    "ItemId": "BloodEcho",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Blood Echo",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Sweden/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Nemesis",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Nemesis",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Sweden/PerkDB.uasset"
+  },
+  {
+    "ItemId": "LuckyBreak",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Lucky Break",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Sweden/PerkDB.uasset"
+  },
+  {
+    "ItemId": "AnyMeansNecessary",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Any Means Necessary",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Sweden/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Breakout",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Breakout",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Sweden/PerkDB.uasset"
+  },
+  {
+    "ItemId": "SoulGuard",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Soul Guard",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Wales/PerkDB.uasset"
+  },
+  {
+    "ItemId": "BloodPact",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Blood Pact",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Wales/PerkDB.uasset"
+  },
+  {
+    "ItemId": "RepressedAlliance",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Repressed Alliance ",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Wales/PerkDB.uasset"
+  },
+  {
+    "ItemId": "ForcedPenance",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Forced Penance",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Wales/PerkDB.uasset"
+  },
+  {
+    "ItemId": "TrailofTorment",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Trail of Torment",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Wales/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Deathbound",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Deathbound",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Wales/PerkDB.uasset"
+  },
+  {
+    "ItemId": "OffTheRecord",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Off the Record",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Ukraine/PerkDB.uasset"
+  },
+  {
+    "ItemId": "RedHerring",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Red Herring",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Ukraine/PerkDB.uasset"
+  },
+  {
+    "ItemId": "ForThePeople",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "For the People",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Ukraine/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Gearhead",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Gearhead",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Ukraine/PerkDB.uasset"
+  },
+  {
+    "ItemId": "DeadMansSwitch",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Dead Man’s Switch",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Ukraine/PerkDB.uasset"
+  },
+  {
+    "ItemId": "HexRetribution",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Hex: Retribution",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Ukraine/PerkDB.uasset"
+  },
+  {
+    "ItemId": "DragonsGrip",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Dragon’s Grip",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Yemen/PerkDB.uasset"
+  },
+  {
+    "ItemId": "HexUndying",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Hex: Undying",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Yemen/PerkDB.uasset"
+  },
+  {
+    "ItemId": "HexBloodFavor",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Hex: Blood Favor",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Yemen/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Visionary",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Visionary",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Yemen/PerkDB.uasset"
+  },
+  {
+    "ItemId": "DesperateMeasures",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Desperate Measures",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Yemen/PerkDB.uasset"
+  },
+  {
+    "ItemId": "BuiltToLast",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Built to Last",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Yemen/PerkDB.uasset"
+  },
+  {
+    "ItemId": "K24P01",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Lethal Pursuer",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Eclipse/PerkDB.uasset"
+  },
+  {
+    "ItemId": "K24P02",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Hysteria",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Eclipse/PerkDB.uasset"
+  },
+  {
+    "ItemId": "K24P03",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Eruption",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Eclipse/PerkDB.uasset"
+  },
+  {
+    "ItemId": "S26P01",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Counterforce",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Eclipse/PerkDB.uasset"
+  },
+  {
+    "ItemId": "S26P02",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Resurgence",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Eclipse/PerkDB.uasset"
+  },
+  {
+    "ItemId": "S26P03",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Blast Mine",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Eclipse/PerkDB.uasset"
+  },
+  {
+    "ItemId": "S27P01",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Bite the Bullet",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Eclipse/PerkDB.uasset"
+  },
+  {
+    "ItemId": "S27P02",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Flashbang",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Eclipse/PerkDB.uasset"
+  },
+  {
+    "ItemId": "S27P03",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Rookie Spirit",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Eclipse/PerkDB.uasset"
+  },
+  {
+    "ItemId": "K30P01",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Nowhere to Hide",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Quantum/PerkDB.uasset"
+  },
+  {
+    "ItemId": "K30P02",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Hex: Face the Darkness",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Quantum/PerkDB.uasset"
+  },
+  {
+    "ItemId": "K30P03",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Hubris",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Quantum/PerkDB.uasset"
+  },
+  {
+    "ItemId": "S34P01",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Potential Energy",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Quantum/PerkDB.uasset"
+  },
+  {
+    "ItemId": "S34P02",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Fogwise",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Quantum/PerkDB.uasset"
+  },
+  {
+    "ItemId": "S34P03",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Quick Gambit",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Quantum/PerkDB.uasset"
+  },
+  {
+    "ItemId": "K32P01",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Genetic Limits",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Umbra/PerkDB.uasset"
+  },
+  {
+    "ItemId": "K32P02",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Forced Hesitation",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Umbra/PerkDB.uasset"
+  },
+  {
+    "ItemId": "K32P03",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Machine Learning",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Umbra/PerkDB.uasset"
+  },
+  {
+    "ItemId": "S37P01",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Troubleshooter",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Umbra/PerkDB.uasset"
+  },
+  {
+    "ItemId": "S37P02",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Made for This",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Umbra/PerkDB.uasset"
+  },
+  {
+    "ItemId": "S37P03",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Scavenger",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Umbra/PerkDB.uasset"
+  },
+  {
+    "ItemId": "K26P01",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Grim Embrace",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Ion/PerkDB.uasset"
+  },
+  {
+    "ItemId": "K26P02",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Scourge Hook: Pain Resonance",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Ion/PerkDB.uasset"
+  },
+  {
+    "ItemId": "K26P03",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Hex: Pentimento",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Ion/PerkDB.uasset"
+  },
+  {
+    "ItemId": "S29P01",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Overcome",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Ion/PerkDB.uasset"
+  },
+  {
+    "ItemId": "S29P02",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Corrective Action",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Ion/PerkDB.uasset"
+  },
+  {
+    "ItemId": "S29P03",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Boon: Exponential",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Ion/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Pharmacy",
+    "Rarity": "EItemRarity::Uncommon",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Pharmacy",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/England/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Vigil",
+    "Rarity": "EItemRarity::Uncommon",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Vigil",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/England/PerkDB.uasset"
+  },
+  {
+    "ItemId": "WakeUp",
+    "Rarity": "EItemRarity::Uncommon",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Wake Up!",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/England/PerkDB.uasset"
+  },
+  {
+    "ItemId": "S38P01",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Dramaturgy",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Venus/PerkDB.uasset"
+  },
+  {
+    "ItemId": "S38P02",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Scene Partner",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Venus/PerkDB.uasset"
+  },
+  {
+    "ItemId": "S38P03",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Plot Twist",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Venus/PerkDB.uasset"
+  },
+  {
+    "ItemId": "K33P01",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Ultimate Weapon",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Wormhole/PerkDB.uasset"
+  },
+  {
+    "ItemId": "K33P02",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Rapid Brutality",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Wormhole/PerkDB.uasset"
+  },
+  {
+    "ItemId": "K33P03",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Alien Instinct",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Wormhole/PerkDB.uasset"
+  },
+  {
+    "ItemId": "S39P01",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Lucky Star",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Wormhole/PerkDB.uasset"
+  },
+  {
+    "ItemId": "S39P02",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Chemical Trap",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Wormhole/PerkDB.uasset"
+  },
+  {
+    "ItemId": "S39P03",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Light-footed",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Wormhole/PerkDB.uasset"
+  },
+  {
+    "ItemId": "K25P01",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Deadlock",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Gemini/PerkDB.uasset"
+  },
+  {
+    "ItemId": "K25P02",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Hex: Plaything",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Gemini/PerkDB.uasset"
+  },
+  {
+    "ItemId": "K25P03",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Scourge Hook: Gift of Pain",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Gemini/PerkDB.uasset"
+  },
+  {
+    "ItemId": "K23P01",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Starstruck",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Comet/PerkDB.uasset"
+  },
+  {
+    "ItemId": "K23P02",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Hex: Crowd Control",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Comet/PerkDB.uasset"
+  },
+  {
+    "ItemId": "K23P03",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "No Way Out",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Comet/PerkDB.uasset"
+  },
+  {
+    "ItemId": "S25P01",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Fast Track",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Comet/PerkDB.uasset"
+  },
+  {
+    "ItemId": "S25P02",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Smash Hit",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Comet/PerkDB.uasset"
+  },
+  {
+    "ItemId": "S25P03",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Self-Preservation",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Comet/PerkDB.uasset"
+  },
+  {
+    "ItemId": "CorruptIntervention",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Corrupt Intervention",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Mali/PerkDB.uasset"
+  },
+  {
+    "ItemId": "InfectiousFright",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Infectious Fright",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Mali/PerkDB.uasset"
+  },
+  {
+    "ItemId": "DarkDevotion",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Dark Devotion",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Mali/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Solidarity",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Solidarity",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Mali/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Poised",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Poised",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Mali/PerkDB.uasset"
+  },
+  {
+    "ItemId": "HeadOn",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Head On",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Mali/PerkDB.uasset"
+  },
+  {
+    "ItemId": "K35P01",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Unbound",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/ApplePie/PerkDB.uasset"
+  },
+  {
+    "ItemId": "K35P02",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Unforeseen",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/ApplePie/PerkDB.uasset"
+  },
+  {
+    "ItemId": "K35P03",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Undone",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/ApplePie/PerkDB.uasset"
+  },
+  {
+    "ItemId": "S41P01",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Invocation: Weaving Spiders",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/ApplePie/PerkDB.uasset"
+  },
+  {
+    "ItemId": "S41P02",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Strength in Shadows",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/ApplePie/PerkDB.uasset"
+  },
+  {
+    "ItemId": "S41P03",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Wicked",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/ApplePie/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Surge",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Surge",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Qatar/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Mindbreaker",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Mindbreaker",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Qatar/PerkDB.uasset"
+  },
+  {
+    "ItemId": "CruelConfinement",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Cruel Limits",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Qatar/PerkDB.uasset"
+  },
+  {
+    "ItemId": "BetterTogether",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Better Together",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Qatar/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Fixated",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Fixated",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Qatar/PerkDB.uasset"
+  },
+  {
+    "ItemId": "InnerStrength",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Inner Strength",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Qatar/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Babysitter",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Babysitter",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Qatar/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Camaraderie",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Camaraderie",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Qatar/PerkDB.uasset"
+  },
+  {
+    "ItemId": "SecondWind",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Second Wind",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Qatar/PerkDB.uasset"
+  },
+  {
+    "ItemId": "K27P01",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Scourge Hook: Floods of Rage",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Kepler/PerkDB.uasset"
+  },
+  {
+    "ItemId": "K27P02",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Call of Brine",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Kepler/PerkDB.uasset"
+  },
+  {
+    "ItemId": "K27P03",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Merciless Storm",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Kepler/PerkDB.uasset"
+  },
+  {
+    "ItemId": "S30P01",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Parental Guidance",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Kepler/PerkDB.uasset"
+  },
+  {
+    "ItemId": "S30P02",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Empathic Connection",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Kepler/PerkDB.uasset"
+  },
+  {
+    "ItemId": "S30P03",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Boon: Dark Theory",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Kepler/PerkDB.uasset"
+  },
+  {
+    "ItemId": "K31P01",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Game Afoot",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Saturn/PerkDB.uasset"
+  },
+  {
+    "ItemId": "K31P02",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "THWACK!",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Saturn/PerkDB.uasset"
+  },
+  {
+    "ItemId": "K31P03",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Leverage",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Saturn/PerkDB.uasset"
+  },
+  {
+    "ItemId": "S35P01",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Cut Loose",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Saturn/PerkDB.uasset"
+  },
+  {
+    "ItemId": "S35P02",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Friendly Competition",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Saturn/PerkDB.uasset"
+  },
+  {
+    "ItemId": "S35P03",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Teamwork: Power of Two",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Saturn/PerkDB.uasset"
+  },
+  {
+    "ItemId": "S36P01",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Background Player",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Saturn/PerkDB.uasset"
+  },
+  {
+    "ItemId": "S36P02",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Blood Rush",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Saturn/PerkDB.uasset"
+  },
+  {
+    "ItemId": "S36P03",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Teamwork: Collective Stealth",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Saturn/PerkDB.uasset"
+  },
+  {
+    "ItemId": "FlipFlop",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Flip-Flop",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Ash/PerkDB.uasset"
+  },
+  {
+    "ItemId": "BuckleUp",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Buckle Up",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Ash/PerkDB.uasset"
+  },
+  {
+    "ItemId": "TheMettleOfMan",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Mettle of Man",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Ash/PerkDB.uasset"
+  },
+  {
+    "ItemId": "K28P01",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Dissolution",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Meteor/PerkDB.uasset"
+  },
+  {
+    "ItemId": "K28P02",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Darkness Revealed",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Meteor/PerkDB.uasset"
+  },
+  {
+    "ItemId": "K28P03",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Septic Touch",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Meteor/PerkDB.uasset"
+  },
+  {
+    "ItemId": "S31P01",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Inner Focus",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Meteor/PerkDB.uasset"
+  },
+  {
+    "ItemId": "S31P02",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Residual Manifest",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Meteor/PerkDB.uasset"
+  },
+  {
+    "ItemId": "S31P03",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Overzealous",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Meteor/PerkDB.uasset"
+  },
+  {
+    "ItemId": "BoonDestroyer",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Shattered Hope",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Meteor/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Breakdown",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Breakdown",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Kenya/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Aftercare",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Aftercare",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Kenya/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Distortion",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Distortion",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Kenya/PerkDB.uasset"
+  },
+  {
+    "ItemId": "S40P01",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Champion of Light",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Zodiac/PerkDB.uasset"
+  },
+  {
+    "ItemId": "S40P02",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Boon: Illumination",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Zodiac/PerkDB.uasset"
+  },
+  {
+    "ItemId": "S40P03",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Deadline",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Zodiac/PerkDB.uasset"
+  },
+  {
+    "ItemId": "BeastOfPrey",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Beast of Prey",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/DLC5/PerkDB.uasset"
+  },
+  {
+    "ItemId": "DeadHard",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Dead Hard",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/DLC5/PerkDB.uasset"
+  },
+  {
+    "ItemId": "Hex_HuntressLullaby",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Hex: Huntress Lullaby",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/DLC5/PerkDB.uasset"
+  },
+  {
+    "ItemId": "NoMither",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "No Mither",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/DLC5/PerkDB.uasset"
+  },
+  {
+    "ItemId": "TerritorialImperative",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Territorial Imperative",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/DLC5/PerkDB.uasset"
+  },
+  {
+    "ItemId": "WereGonnaLiveForever",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "We're Gonna Live Forever",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/DLC5/PerkDB.uasset"
+  }
+]

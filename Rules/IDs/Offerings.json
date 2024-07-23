@@ -1,0 +1,832 @@
+[
+  {
+    "ItemId": "ArdentRavenWreath",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Ardent Raven Wreath",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "ArdentShrikeWreath",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Ardent Shrike Wreath",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "ArdentSpottedowlWreath",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Ardent Spotted Owl Wreath",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "ArdentTanagerWreath",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Ardent Tanager Wreath",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "AzarovKey",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "Azarov's Key",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "BlackSaltStatuette",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Black Salt Statuette",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "BlackWard",
+    "Rarity": "EItemRarity::VeryRare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Black Ward",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "BogLaurelSachet",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Bog Laurel Sachet",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "BoundEnvelope",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Bound Envelope",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "ChalkPouch",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Chalk Pouch",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "CharredWeddingPhotograph",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "Charred Wedding Photograph",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "ClearReagent",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "Clear Reagent",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "CreamChalkPouch",
+    "Rarity": "EItemRarity::Uncommon",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Cream Chalk Pouch",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "CrispleafAmaranthSachet",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Crispleaf Amaranth Sachet",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "CutCoin",
+    "Rarity": "EItemRarity::VeryRare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Cut Coin",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "CypressMementoMori",
+    "Rarity": "EItemRarity::Uncommon",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Cypress Memento Mori",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "DevoutRavenWreath",
+    "Rarity": "EItemRarity::Uncommon",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Devout Raven Wreath",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "DevoutShrikeWreath",
+    "Rarity": "EItemRarity::Uncommon",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Devout Shrike Wreath",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "DevoutSpottedowlWreath",
+    "Rarity": "EItemRarity::Uncommon",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Devout Spotted Owl Wreath",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "DevoutTanagerWreath",
+    "Rarity": "EItemRarity::Uncommon",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Devout Tanager Wreath",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "EbonyMementoMori",
+    "Rarity": "EItemRarity::UltraRare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Ebony Memento Mori",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "FaintReagent",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "Faint Reagent",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "FragrantBogLaurel",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Fragrant Bog Laurel",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "FragrantCrispleafAmaranth",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Fragrant Crispleaf Amaranth",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "FragrantPrimroseBlossom",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Fragrant Primrose Blossom",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "FragrantSweetWilliam",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Fragrant Sweet William",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "FreshBogLaurel",
+    "Rarity": "EItemRarity::Uncommon",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Fresh Bog Laurel",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "FreshCrispleafAmaranth",
+    "Rarity": "EItemRarity::Uncommon",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Fresh Crispleaf Amaranth",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "FreshPrimroseBlossom",
+    "Rarity": "EItemRarity::Uncommon",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Fresh Primrose Blossom",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "FreshSweetWilliam",
+    "Rarity": "EItemRarity::Uncommon",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Fresh Sweet William",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "HazyReagent",
+    "Rarity": "EItemRarity::Uncommon",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "Hazy Reagent",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "HeartLocket",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "Heart Locket",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "HollowShell",
+    "Rarity": "EItemRarity::Uncommon",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Hollow Shell",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "IvoryChalkPouch",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Ivory Chalk Pouch",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "IvoryMementoMori",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Ivory Memento Mori",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "MacMillanPhalanxBone",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "MacMillan's Phalanx Bone",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "MoldyOak",
+    "Rarity": "EItemRarity::Uncommon",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Moldy Oak",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "MurkyReagent",
+    "Rarity": "EItemRarity::VeryRare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "Murky Reagent",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "PetrifiedOak",
+    "Rarity": "EItemRarity::VeryRare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Petrified Oak",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "PrimroseBlossomSachet",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Primrose Blossom Sachet",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "PutridOak",
+    "Rarity": "EItemRarity::VeryRare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Putrid Oak",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "RavenWreath",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Raven Wreath",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "RottenOak",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Rotten Oak",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "SaltPouch",
+    "Rarity": "EItemRarity::Uncommon",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Salt Pouch",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "ScratchedCoin",
+    "Rarity": "EItemRarity::Uncommon",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Scratched Coin",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "SealedEnvelope",
+    "Rarity": "EItemRarity::Uncommon",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Sealed Envelope",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "ShinyCoin",
+    "Rarity": "EItemRarity::VeryRare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Shiny Coin",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "ShrikeWreath",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Shrike Wreath",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "ShroudofBinding",
+    "Rarity": "EItemRarity::VeryRare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Shroud of Binding",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "ShroudofSeparation",
+    "Rarity": "EItemRarity::Uncommon",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Shroud of Separation",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "ShroudofUnion",
+    "Rarity": "EItemRarity::Uncommon",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Shroud of Union",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "SpottedOwlWreath",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Spotted Owl Wreath",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "SweetWilliamSachet",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Sweet William Sachet",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "TanagerWreath",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Tanager Wreath",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "TarnishedCoin",
+    "Rarity": "EItemRarity::Uncommon",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Tarnished Coin",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "VigosShroud",
+    "Rarity": "EItemRarity::Uncommon",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Vigo's Shroud",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "WhiteWard",
+    "Rarity": "EItemRarity::VeryRare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "White Ward",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "VigosJarOfSaltyLips",
+    "Rarity": "EItemRarity::VeryRare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Vigo's Jar of Salty Lips",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "GranmasCookbook",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "Grandma's Cookbook",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "EscapeCake",
+    "Rarity": "EItemRarity::Uncommon",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Escape! Cake",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "SurvivorPudding",
+    "Rarity": "EItemRarity::Uncommon",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Survivor Pudding",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "BloodyPartyStreamers",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "Bloody Party Streamers",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "StrodeRealtyKey",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "Strode Realty Key",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/DLC2/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "Jigsawpiece",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "Jigsaw Piece",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Finland/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "ShatteredGlasses",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "Shattered Glasses",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/DLC4/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "JapaneseCountrySide",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "Yamaoka Family Crest",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Haiti/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "WalesThemeOffering",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "Mary’s Letter",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Wales/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "UkraineThemeOffering",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "Shattered Bottle",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Ukraine/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "SacrificalWard",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "Sacrificial Ward",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Yemen/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "TornBlueprint",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "Torn Blueprint",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Yemen/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "BloodiedBlueprint",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "Bloodied Blueprint",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Yemen/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "VigosBlueprint",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "Vigo’s Blueprint",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Yemen/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "AnnotatedBlueprint",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "Annotated Blueprint",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Yemen/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "EclipseThemeOffering",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "RPD Badge",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Eclipse/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "QuantumThemeOffering",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "Beef Tallow Mixture",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Quantum/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "UmbraThemeOffering",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "Alien Flora",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Umbra/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "IonThemeOffering",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "Crow's Eye",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Ion/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "ThePiedPiper",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "The Pied Piper",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/England/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "WormholeThemeOffering",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "Airlock Doors",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Wormhole/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "QatarThemeOffering",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "Hawkins National Laboratory I.D. ",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Qatar/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "MeteorThemeOffering",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "Ichorous Loam",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Meteor/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "KenyaThemeOffering",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "Damaged Photo",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Kenya/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "TheLastMask",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "The Last Mask",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/DLC5/OfferingDB.uasset"
+  }
+]

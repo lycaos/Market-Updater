@@ -1,0 +1,334 @@
+[
+  {
+    "Name": "ArdentRavenWreath",
+    "Quantity": 50
+  },
+  {
+    "Name": "ArdentShrikeWreath",
+    "Quantity": 50
+  },
+  {
+    "Name": "ArdentSpottedowlWreath",
+    "Quantity": 50
+  },
+  {
+    "Name": "ArdentTanagerWreath",
+    "Quantity": 50
+  },
+  {
+    "Name": "AzarovKey",
+    "Quantity": 50
+  },
+  {
+    "Name": "BlackSaltStatuette",
+    "Quantity": 50
+  },
+  {
+    "Name": "BlackWard",
+    "Quantity": 50
+  },
+  {
+    "Name": "BogLaurelSachet",
+    "Quantity": 50
+  },
+  {
+    "Name": "BoundEnvelope",
+    "Quantity": 50
+  },
+  {
+    "Name": "ChalkPouch",
+    "Quantity": 50
+  },
+  {
+    "Name": "CharredWeddingPhotograph",
+    "Quantity": 50
+  },
+  {
+    "Name": "ClearReagent",
+    "Quantity": 50
+  },
+  {
+    "Name": "CreamChalkPouch",
+    "Quantity": 50
+  },
+  {
+    "Name": "CrispleafAmaranthSachet",
+    "Quantity": 50
+  },
+  {
+    "Name": "CutCoin",
+    "Quantity": 50
+  },
+  {
+    "Name": "CypressMementoMori",
+    "Quantity": 50
+  },
+  {
+    "Name": "DevoutRavenWreath",
+    "Quantity": 50
+  },
+  {
+    "Name": "DevoutShrikeWreath",
+    "Quantity": 50
+  },
+  {
+    "Name": "DevoutSpottedowlWreath",
+    "Quantity": 50
+  },
+  {
+    "Name": "DevoutTanagerWreath",
+    "Quantity": 50
+  },
+  {
+    "Name": "EbonyMementoMori",
+    "Quantity": 50
+  },
+  {
+    "Name": "FaintReagent",
+    "Quantity": 50
+  },
+  {
+    "Name": "FragrantBogLaurel",
+    "Quantity": 50
+  },
+  {
+    "Name": "FragrantCrispleafAmaranth",
+    "Quantity": 50
+  },
+  {
+    "Name": "FragrantPrimroseBlossom",
+    "Quantity": 50
+  },
+  {
+    "Name": "FragrantSweetWilliam",
+    "Quantity": 50
+  },
+  {
+    "Name": "FreshBogLaurel",
+    "Quantity": 50
+  },
+  {
+    "Name": "FreshCrispleafAmaranth",
+    "Quantity": 50
+  },
+  {
+    "Name": "FreshPrimroseBlossom",
+    "Quantity": 50
+  },
+  {
+    "Name": "FreshSweetWilliam",
+    "Quantity": 50
+  },
+  {
+    "Name": "HazyReagent",
+    "Quantity": 50
+  },
+  {
+    "Name": "HeartLocket",
+    "Quantity": 50
+  },
+  {
+    "Name": "HollowShell",
+    "Quantity": 50
+  },
+  {
+    "Name": "IvoryChalkPouch",
+    "Quantity": 50
+  },
+  {
+    "Name": "IvoryMementoMori",
+    "Quantity": 50
+  },
+  {
+    "Name": "MacMillanPhalanxBone",
+    "Quantity": 50
+  },
+  {
+    "Name": "MoldyOak",
+    "Quantity": 50
+  },
+  {
+    "Name": "MurkyReagent",
+    "Quantity": 50
+  },
+  {
+    "Name": "PetrifiedOak",
+    "Quantity": 50
+  },
+  {
+    "Name": "PrimroseBlossomSachet",
+    "Quantity": 50
+  },
+  {
+    "Name": "PutridOak",
+    "Quantity": 50
+  },
+  {
+    "Name": "RavenWreath",
+    "Quantity": 50
+  },
+  {
+    "Name": "RottenOak",
+    "Quantity": 50
+  },
+  {
+    "Name": "SaltPouch",
+    "Quantity": 50
+  },
+  {
+    "Name": "ScratchedCoin",
+    "Quantity": 50
+  },
+  {
+    "Name": "SealedEnvelope",
+    "Quantity": 50
+  },
+  {
+    "Name": "ShinyCoin",
+    "Quantity": 50
+  },
+  {
+    "Name": "ShrikeWreath",
+    "Quantity": 50
+  },
+  {
+    "Name": "ShroudofBinding",
+    "Quantity": 50
+  },
+  {
+    "Name": "ShroudofSeparation",
+    "Quantity": 50
+  },
+  {
+    "Name": "ShroudofUnion",
+    "Quantity": 50
+  },
+  {
+    "Name": "SpottedOwlWreath",
+    "Quantity": 50
+  },
+  {
+    "Name": "SweetWilliamSachet",
+    "Quantity": 50
+  },
+  {
+    "Name": "TanagerWreath",
+    "Quantity": 50
+  },
+  {
+    "Name": "TarnishedCoin",
+    "Quantity": 50
+  },
+  {
+    "Name": "VigosShroud",
+    "Quantity": 50
+  },
+  {
+    "Name": "WhiteWard",
+    "Quantity": 50
+  },
+  {
+    "Name": "VigosJarOfSaltyLips",
+    "Quantity": 50
+  },
+  {
+    "Name": "GranmasCookbook",
+    "Quantity": 50
+  },
+  {
+    "Name": "EscapeCake",
+    "Quantity": 50
+  },
+  {
+    "Name": "SurvivorPudding",
+    "Quantity": 50
+  },
+  {
+    "Name": "BloodyPartyStreamers",
+    "Quantity": 50
+  },
+  {
+    "Name": "StrodeRealtyKey",
+    "Quantity": 50
+  },
+  {
+    "Name": "Jigsawpiece",
+    "Quantity": 50
+  },
+  {
+    "Name": "ShatteredGlasses",
+    "Quantity": 50
+  },
+  {
+    "Name": "JapaneseCountrySide",
+    "Quantity": 50
+  },
+  {
+    "Name": "WalesThemeOffering",
+    "Quantity": 50
+  },
+  {
+    "Name": "UkraineThemeOffering",
+    "Quantity": 50
+  },
+  {
+    "Name": "SacrificalWard",
+    "Quantity": 50
+  },
+  {
+    "Name": "TornBlueprint",
+    "Quantity": 50
+  },
+  {
+    "Name": "BloodiedBlueprint",
+    "Quantity": 50
+  },
+  {
+    "Name": "VigosBlueprint",
+    "Quantity": 50
+  },
+  {
+    "Name": "AnnotatedBlueprint",
+    "Quantity": 50
+  },
+  {
+    "Name": "EclipseThemeOffering",
+    "Quantity": 50
+  },
+  {
+    "Name": "QuantumThemeOffering",
+    "Quantity": 50
+  },
+  {
+    "Name": "UmbraThemeOffering",
+    "Quantity": 50
+  },
+  {
+    "Name": "IonThemeOffering",
+    "Quantity": 50
+  },
+  {
+    "Name": "ThePiedPiper",
+    "Quantity": 50
+  },
+  {
+    "Name": "WormholeThemeOffering",
+    "Quantity": 50
+  },
+  {
+    "Name": "QatarThemeOffering",
+    "Quantity": 50
+  },
+  {
+    "Name": "MeteorThemeOffering",
+    "Quantity": 50
+  },
+  {
+    "Name": "KenyaThemeOffering",
+    "Quantity": 50
+  },
+  {
+    "Name": "TheLastMask",
+    "Quantity": 50
+  }
+]

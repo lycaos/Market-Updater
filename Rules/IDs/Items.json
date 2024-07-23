@@ -1,0 +1,182 @@
+[
+  {
+    "ItemId": "Item_Camper_AlexsToolbox",
+    "Rarity": "EItemRarity::VeryRare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Alex's Toolbox",
+    "FilePath": "DeadByDaylight/Content/Data/ItemDB.uasset"
+  },
+  {
+    "ItemId": "Item_Camper_BeigeMap",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Map",
+    "FilePath": "DeadByDaylight/Content/Data/ItemDB.uasset"
+  },
+  {
+    "ItemId": "Item_Camper_BrokenKey",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Broken Key",
+    "FilePath": "DeadByDaylight/Content/Data/ItemDB.uasset"
+  },
+  {
+    "ItemId": "Item_Camper_CommodiousToolbox",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Commodious Toolbox",
+    "FilePath": "DeadByDaylight/Content/Data/ItemDB.uasset"
+  },
+  {
+    "ItemId": "Item_Camper_DullKey",
+    "Rarity": "EItemRarity::VeryRare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Dull Key",
+    "FilePath": "DeadByDaylight/Content/Data/ItemDB.uasset"
+  },
+  {
+    "ItemId": "Item_Camper_EngineerToolbox",
+    "Rarity": "EItemRarity::VeryRare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Engineer's Toolbox",
+    "FilePath": "DeadByDaylight/Content/Data/ItemDB.uasset"
+  },
+  {
+    "ItemId": "Item_Camper_Flashlight",
+    "Rarity": "EItemRarity::Uncommon",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Flashlight",
+    "FilePath": "DeadByDaylight/Content/Data/ItemDB.uasset"
+  },
+  {
+    "ItemId": "Item_Camper_Flashlight02",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Sport Flashlight",
+    "FilePath": "DeadByDaylight/Content/Data/ItemDB.uasset"
+  },
+  {
+    "ItemId": "Item_Camper_Flashlight03",
+    "Rarity": "EItemRarity::VeryRare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Utility Flashlight",
+    "FilePath": "DeadByDaylight/Content/Data/ItemDB.uasset"
+  },
+  {
+    "ItemId": "Item_Camper_Key",
+    "Rarity": "EItemRarity::UltraRare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Skeleton Key",
+    "FilePath": "DeadByDaylight/Content/Data/ItemDB.uasset"
+  },
+  {
+    "ItemId": "Item_Camper_MechanicsToolbox",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Mechanic's Toolbox",
+    "FilePath": "DeadByDaylight/Content/Data/ItemDB.uasset"
+  },
+  {
+    "ItemId": "Item_Camper_MedKit",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Camping Aid Kit",
+    "FilePath": "DeadByDaylight/Content/Data/ItemDB.uasset"
+  },
+  {
+    "ItemId": "Item_Camper_MedKit02",
+    "Rarity": "EItemRarity::Uncommon",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "First Aid Kit",
+    "FilePath": "DeadByDaylight/Content/Data/ItemDB.uasset"
+  },
+  {
+    "ItemId": "Item_Camper_MedKit03",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Emergency Med-kit",
+    "FilePath": "DeadByDaylight/Content/Data/ItemDB.uasset"
+  },
+  {
+    "ItemId": "Item_Camper_MedKit04",
+    "Rarity": "EItemRarity::VeryRare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Ranger Med-kit",
+    "FilePath": "DeadByDaylight/Content/Data/ItemDB.uasset"
+  },
+  {
+    "ItemId": "Item_Camper_RainbowMap",
+    "Rarity": "EItemRarity::UltraRare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Rainbow Map",
+    "FilePath": "DeadByDaylight/Content/Data/ItemDB.uasset"
+  },
+  {
+    "ItemId": "Item_Camper_Toolbox",
+    "Rarity": "EItemRarity::Uncommon",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Toolbox",
+    "FilePath": "DeadByDaylight/Content/Data/ItemDB.uasset"
+  },
+  {
+    "ItemId": "Item_Camper_WornoutToolbox",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Worn-out Tools",
+    "FilePath": "DeadByDaylight/Content/Data/ItemDB.uasset"
+  }
+]

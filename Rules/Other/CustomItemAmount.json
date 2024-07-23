@@ -1,0 +1,74 @@
+[
+  {
+    "Name": "Item_Camper_AlexsToolbox",
+    "Quantity": 50
+  },
+  {
+    "Name": "Item_Camper_BeigeMap",
+    "Quantity": 50
+  },
+  {
+    "Name": "Item_Camper_BrokenKey",
+    "Quantity": 50
+  },
+  {
+    "Name": "Item_Camper_CommodiousToolbox",
+    "Quantity": 50
+  },
+  {
+    "Name": "Item_Camper_DullKey",
+    "Quantity": 50
+  },
+  {
+    "Name": "Item_Camper_EngineerToolbox",
+    "Quantity": 50
+  },
+  {
+    "Name": "Item_Camper_Flashlight",
+    "Quantity": 50
+  },
+  {
+    "Name": "Item_Camper_Flashlight02",
+    "Quantity": 50
+  },
+  {
+    "Name": "Item_Camper_Flashlight03",
+    "Quantity": 50
+  },
+  {
+    "Name": "Item_Camper_Key",
+    "Quantity": 50
+  },
+  {
+    "Name": "Item_Camper_MechanicsToolbox",
+    "Quantity": 50
+  },
+  {
+    "Name": "Item_Camper_MedKit",
+    "Quantity": 50
+  },
+  {
+    "Name": "Item_Camper_MedKit02",
+    "Quantity": 50
+  },
+  {
+    "Name": "Item_Camper_MedKit03",
+    "Quantity": 50
+  },
+  {
+    "Name": "Item_Camper_MedKit04",
+    "Quantity": 50
+  },
+  {
+    "Name": "Item_Camper_RainbowMap",
+    "Quantity": 50
+  },
+  {
+    "Name": "Item_Camper_Toolbox",
+    "Quantity": 50
+  },
+  {
+    "Name": "Item_Camper_WornoutToolbox",
+    "Quantity": 50
+  }
+]

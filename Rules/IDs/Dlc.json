@@ -1,0 +1,634 @@
+[
+  {
+    "CharacterName": "Ace",
+    "CharacterIndex": "6",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "Adam",
+    "CharacterIndex": "13",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "Ash",
+    "CharacterIndex": "16",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "Bear",
+    "CharacterIndex": "268435463",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "Bill",
+    "CharacterIndex": "7",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "Bob",
+    "CharacterIndex": "268435457",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "Cannibal",
+    "CharacterIndex": "268435464",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "Chuckles",
+    "CharacterIndex": "268435456",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "Claudette",
+    "CharacterIndex": "2",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "Clown",
+    "CharacterIndex": "268435467",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "Demogorgon",
+    "CharacterIndex": "268435472",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "Dwight",
+    "CharacterIndex": "0",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "Eric",
+    "CharacterIndex": "12",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "Feng",
+    "CharacterIndex": "8",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "Ghostface",
+    "CharacterIndex": "268435471",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "Gunslinger",
+    "CharacterIndex": "268435474",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "HillBilly",
+    "CharacterIndex": "268435458",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "Jake",
+    "CharacterIndex": "3",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "Jane",
+    "CharacterIndex": "15",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "Jeff",
+    "CharacterIndex": "14",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "Kate",
+    "CharacterIndex": "10",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "Killer07",
+    "CharacterIndex": "268435462",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "Laurie",
+    "CharacterIndex": "5",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "Legion",
+    "CharacterIndex": "268435469",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "Meg",
+    "CharacterIndex": "1",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "Nancy",
+    "CharacterIndex": "17",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "Nea",
+    "CharacterIndex": "4",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "Nightmare",
+    "CharacterIndex": "268435465",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "Nurse",
+    "CharacterIndex": "268435459",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "Oni",
+    "CharacterIndex": "268435473",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "Pig",
+    "CharacterIndex": "268435466",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "Plague",
+    "CharacterIndex": "268435470",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "Quentin",
+    "CharacterIndex": "11",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "Shape",
+    "CharacterIndex": "268435461",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "Smoke",
+    "CharacterIndex": "9",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "Spirit",
+    "CharacterIndex": "268435468",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "Steve",
+    "CharacterIndex": "18",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "Witch",
+    "CharacterIndex": "268435460",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "Yui",
+    "CharacterIndex": "19",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "Zarina",
+    "CharacterIndex": "20",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "K20",
+    "CharacterIndex": "268435475",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "K21",
+    "CharacterIndex": "268435476",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "K22",
+    "CharacterIndex": "268435477",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "K23",
+    "CharacterIndex": "268435478",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "K24",
+    "CharacterIndex": "268435479",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "K25",
+    "CharacterIndex": "268435480",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "K26",
+    "CharacterIndex": "268435481",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "K27",
+    "CharacterIndex": "268435482",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "K28",
+    "CharacterIndex": "268435483",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "K29",
+    "CharacterIndex": "268435484",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "K30",
+    "CharacterIndex": "268435485",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "K31",
+    "CharacterIndex": "268435486",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "K32",
+    "CharacterIndex": "268435487",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "K33",
+    "CharacterIndex": "268435488",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "K34",
+    "CharacterIndex": "268435489",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "K35",
+    "CharacterIndex": "268435490",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "K36",
+    "CharacterIndex": "268435491",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "S22",
+    "CharacterIndex": "21",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "S23",
+    "CharacterIndex": "22",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "S24",
+    "CharacterIndex": "23",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "S25",
+    "CharacterIndex": "24",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "S26",
+    "CharacterIndex": "25",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "S27",
+    "CharacterIndex": "26",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "S28",
+    "CharacterIndex": "27",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "S29",
+    "CharacterIndex": "28",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "S30",
+    "CharacterIndex": "29",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "S31",
+    "CharacterIndex": "30",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "S32",
+    "CharacterIndex": "31",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "S33",
+    "CharacterIndex": "32",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "S34",
+    "CharacterIndex": "33",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "S35",
+    "CharacterIndex": "34",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "S36",
+    "CharacterIndex": "35",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "S37",
+    "CharacterIndex": "36",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "S38",
+    "CharacterIndex": "37",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "S39",
+    "CharacterIndex": "38",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "S40",
+    "CharacterIndex": "39",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "S41",
+    "CharacterIndex": "40",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "S42",
+    "CharacterIndex": "41",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "",
+    "FilePath": ""
+  },
+  {
+    "CharacterName": "S43",
+    "CharacterIndex": "42",
+    "CharacterDefaultItem": "",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "",
+    "FilePath": ""
+  }
+]
