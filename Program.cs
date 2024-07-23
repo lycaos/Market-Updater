@@ -131,9 +131,10 @@ SkipSettings:
         Extras.AddScaryItems = choices.AddScaryItems;
     }
 
+    bool cdnStatus = Extras.PromptOptionInput("Do you want to generate Catalog and Killswitch? (y/N): ") == 'y';
     Extras.Header();
 
-    if(Extras.PromptOptionInput("Do you want to generate Catalog and Killswitch? (y/N): ") == 'y')
+    if(cdnStatus)
         await Cdn.GetCdnFiles();
 
     await Extras.MakeFile(Classes.Ids.CosmeticIds, "Cosmetics.json");
