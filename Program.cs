@@ -81,6 +81,9 @@ SkipSettings:
         choices.ItemAmount = Market.ItemAmount = Extras.PromptIntInput("Enter desired item amount (0 for random): ");
 
         choices.PrestigeLevel = Market.PrestigeLevel = Extras.PromptIntInput("Enter desired prestige for characters (0 for random): ");
+        choices.PrestigeLevelMinimum = 0;
+        choices.PrestigeLevelMaximum = 0;
+
         if (Market.PrestigeLevel == 0)
         {
             choices.PrestigeLevelMinimum = Market.PrestigeLevelMinimum = Extras.PromptIntInput("Enter minimum desired prestige: ");
@@ -111,6 +114,21 @@ SkipSettings:
         choices.AddScaryItems = Extras.AddScaryItems = ShouldHaveScaryItems is 'y';
     
         Extras.SaveChoices("choices.json", choices);
+    }
+    else
+    {
+        Market.ItemAmount = choices.ItemAmount;
+        Market.PrestigeLevel = choices.PrestigeLevel;
+        Market.PrestigeLevelMinimum = choices.PrestigeLevelMinimum;
+        Market.PrestigeLevelMaximum = choices.PrestigeLevelMaximum;
+        Player.PlayerLevel = choices.PlayerLevel;
+        Player.DevotionLevel = choices.DevotionLevel;
+        Extras.AddNonInventoryItems = choices.AddNonInventoryItems;
+        Extras.AddRetiredOfferings = choices.AddRetiredOfferings;
+        Extras.AddEventItems = choices.AddEventItems;
+        Extras.AddBannersBadges = choices.AddBannersBadges;
+        Extras.AddLegacy = choices.AddLegacy;
+        Extras.AddScaryItems = choices.AddScaryItems;
     }
 
     Extras.Header();
