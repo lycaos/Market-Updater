@@ -134,9 +134,9 @@ namespace Melancholy
                         switch (type)
                         {
                             case "CustomizationItemDB":
-                                string customizationId = property?["customizationId"]?.ToString();
+                                string customizationId = property?["customizationId"]?.ToString() ?? string.Empty;
                                 string localizedString =
-                                    property?["UIData"]?["DisplayName"]?["LocalizedString"]?.ToString();
+                                    property?["UIData"]?["DisplayName"]?["LocalizedString"]?.ToString() ?? string.Empty;
                                 
                                 Classes.Customization customization = new()
                                 {
