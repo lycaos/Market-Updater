@@ -13,7 +13,7 @@ namespace Melancholy
                 CharacterName = character.CharacterName,
                 CharacterItems = GenerateItemData(character),
                 BloodWebData = BloodwebGenerator.Make_Bloodweb(character.CharacterType, character.CharacterDefaultItem),
-                PrestigeLevel = Market.PrestigeLevel
+                PrestigeLevel = Market.PrestigeLevel == 0 ? new Random().Next(Market.PrestigeLevelMinimum, Market.PrestigeLevelMaximum) : Market.PrestigeLevel
             }));
 
             var json = JsonConvert.SerializeObject(getAllData, Formatting.Indented);

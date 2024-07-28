@@ -8,7 +8,7 @@ namespace Melancholy
         {
             Classes.BloodwebData bloodwebObj = new()
             {
-                PrestigeLevel = Market.PrestigeLevel,
+                PrestigeLevel = Market.PrestigeLevel == 0 ? new Random().Next(Market.PrestigeLevelMinimum, Market.PrestigeLevelMaximum) : Market.PrestigeLevel,
                 BloodWebData = BloodwebGenerator.Make_Bloodweb("EPlayerRole::VE_None", "", perkStatus)
             };
 
