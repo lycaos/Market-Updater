@@ -11,12 +11,15 @@ namespace Melancholy
         public static bool AddBannersBadges { get; set; } = true;
         public static bool AddScaryItems { get; set; } = false;
         public static bool AddLegacy { get; set; } = true;
-
+        public const string BlacklistFile = "Other/Blacklist.json";
+        public const string ChoicesFile = "Other/Choices.json";
+        public const string SettingsFile = "Other/Settings.json";
         private static int Padding(string output) => (Console.WindowWidth / 2) - (output.Length / 2);
         private static void CenterText(string text) => Console.WriteLine("{0}{1}", new string(' ', Padding(text)), text);
 
         public static void populateDlcs()
         {
+            Classes.Ids.DlcIds.Clear();
             List<Classes.Character> characters = new List<Classes.Character>
             {
                 new Classes.Character { CharacterName = "Ace", CharacterIndex = "6", CharacterType = "EPlayerRole::VE_Camper" },
@@ -156,6 +159,13 @@ namespace Melancholy
                 return choices;
             }
             return new Classes.Choices();
+        }
+
+        public static void MigrateFiles()
+        {
+            if(File.Exists("blacklist.json")) File.Move("blacklist.json", BlacklistFile);
+            if(File.Exists("choices.json")) File.Move("choices.json", ChoicesFile);
+            if(File.Exists("settings.json")) File.Move("settings.json", SettingsFile);
         }
     }
 }

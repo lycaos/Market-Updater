@@ -135,8 +135,7 @@ namespace Melancholy
                         {
                             case "CustomizationItemDB":
                                 string customizationId = property?["customizationId"]?.ToString() ?? string.Empty;
-                                string localizedString =
-                                    property?["UIData"]?["DisplayName"]?["LocalizedString"]?.ToString() ?? string.Empty;
+                                string localizedString = property?["UIData"]?["DisplayName"]?["LocalizedString"]?.ToString() ?? string.Empty;
                                 
                                 Classes.Customization customization = new()
                                 {
@@ -157,11 +156,12 @@ namespace Melancholy
                                                    string.Empty,
                                     FilePath = item ?? string.Empty,
                                     IsLegacy = (property?["InclusionVersion"]?.ToString() == "Legacy"
-                                                && Regex.IsMatch(property?["UIData"]?["DisplayName"]?["LocalizedString"]?.ToString(), @"Legacy.*\b(I|II|III)\b", RegexOptions.IgnoreCase)),
-                                    IsExclusive = (exclusiveStrings.Any(s => customizationId.Contains(s)
-                                                                             && !customizationId.Contains("Charity")))
-                                                  || (localizedString.Contains("Twitchy")
-                                                      && !(localizedString.Contains("Flame") || localizedString.Contains("Medkit")))
+                                                && Regex.IsMatch(property?["UIData"]?["DisplayName"]?["LocalizedString"]?.ToString() ?? string.Empty, @"Legacy.*\b(I|II|III)\b", RegexOptions.IgnoreCase)),
+                                    IsExclusive = (exclusiveStrings.Any(s => (customizationId).Contains(s)
+                                                                     && !(customizationId).Contains("Charity")))
+                                                                    || ((localizedString).Contains("Twitchy")
+                                                                        && !((localizedString).Contains("Flame") || (localizedString).Contains("Medkit")))
+
                                 };
                                 if (!IsInBlacklist(customization.CosmeticId)) Classes.Ids.CosmeticIds.Add(customization);
                                 break;
@@ -268,7 +268,7 @@ namespace Melancholy
 
         private static bool IsInBlacklist(string id)
         {
-            if (!File.Exists("blacklist.json"))
+            if (!File.Exists(Extras.BlacklistFile))
             {
                 var blacklist = new
                 {
@@ -278,10 +278,10 @@ namespace Melancholy
                 }
                 };
 
-                File.WriteAllText("blacklist.json", JsonConvert.SerializeObject(blacklist, Formatting.Indented));
+                File.WriteAllText(Extras.BlacklistFile, JsonConvert.SerializeObject(blacklist, Formatting.Indented));
             }
 
-            string blacklistContent = File.ReadAllText("blacklist.json");
+            string blacklistContent = File.ReadAllText(Extras.BlacklistFile);
             JObject json = JObject.Parse(blacklistContent);
 
             bool isBlacklisted = ((JArray)json["IDs"]!)

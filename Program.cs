@@ -1,20 +1,19 @@
 ﻿using Melancholy;
 using Newtonsoft.Json;
 
-const string SettingsFile = "settings.json";
-
 try
 {
     Console.Title = "DBD OwO";
     Extras.Header();
+    Extras.MigrateFiles();
 
     if (!Directory.Exists("Files")) Directory.CreateDirectory("Files");
     if (!Directory.Exists("Other")) Directory.CreateDirectory("Other");
     if (!Directory.Exists("IDs")) Directory.CreateDirectory("IDs");
 
-    if (File.Exists(SettingsFile))
+    if (File.Exists(Extras.SettingsFile))
     {
-        Extras.Settings = JsonConvert.DeserializeObject<Classes.Settings>(File.ReadAllText(SettingsFile));
+        Extras.Settings = JsonConvert.DeserializeObject<Classes.Settings>(File.ReadAllText(Extras.SettingsFile));
 
         Console.WriteLine(
             $"Current settings:\nPak path: {Extras.Settings.PakPath}\nAES key: {Extras.Settings.AesKey}\nMappings path: {Extras.Settings.MappingsPath}\n");
@@ -57,7 +56,7 @@ PopulateSettings:
     Extras.Settings.PakPath = Extras.PromptInput("Provide path to your paks folder: ");
     Extras.Settings.AesKey = Extras.PromptInput("Provide AES key: ");
 	
-    File.WriteAllText(SettingsFile, JsonConvert.SerializeObject(Extras.Settings, Formatting.Indented));
+    File.WriteAllText(Extras.SettingsFile, JsonConvert.SerializeObject(Extras.Settings, Formatting.Indented));
 
 SkipSettings:
     Extras.Header();
@@ -68,13 +67,15 @@ SkipSettings:
     Cue4Parse.CdnAccessKey = Cue4Parse.GetAccessKey();
     Cue4Parse.Get_Files();
     if(Classes.Ids.DlcIds.Count < 79)
-        Classes.Ids.DlcIds.Clear();
+    {
+        Console.WriteLine($"{Classes.Ids.DlcIds.Count} characters founded, they should be at least 79");
         Extras.populateDlcs();
+    }
 
     if (Cue4Parse.IsListEmpty())
         throw new Exception("Mappings file outdated, contact @bhvr on Discord for the new mappings file.");
 
-    Classes.Choices choices = Extras.LoadChoices("choices.json");
+    Classes.Choices choices = Extras.LoadChoices(Extras.ChoicesFile);
 
     if(!choices.LoadedFromFile || (choices.LoadedFromFile && Extras.PromptOptionInput("Do you want to load your previous choices? (y/N): ") == 'n'))
     {
@@ -113,7 +114,7 @@ SkipSettings:
         char ShouldHaveScaryItems = Extras.PromptOptionInput("Should \"scary\" things be included (like dev only items etc.)? (y/N): ");
         choices.AddScaryItems = Extras.AddScaryItems = ShouldHaveScaryItems is 'y';
     
-        Extras.SaveChoices("choices.json", choices);
+        Extras.SaveChoices(Extras.ChoicesFile, choices);
     }
     else
     {
@@ -163,6 +164,8 @@ SkipSettings:
     Console.WriteLine("Bloodweb.json generated");
 
     await Player.Generate_PlayerLevel();
+
+    Console.WriteLine($"Key to decrypt CDN stuff (Catalog, KillSwitch..): {Cue4Parse.CdnAccessKey}");
 
     Console.WriteLine("\nPress any key to close...");
     Console.ReadKey();
