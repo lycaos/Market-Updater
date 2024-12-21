@@ -1,408 +1,423 @@
 {
   "List": [
     {
-      "CharacterName": "K37",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
-      "CharacterName": "Legion",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
-      "CharacterName": "Cannibal",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
-      "CharacterName": "Nightmare",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
-      "CharacterName": "S44",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
-      "CharacterName": "S43",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
-      "CharacterName": "Plague",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
-      "CharacterName": "Shape",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
-      "CharacterName": "Pig",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
       "CharacterName": "Killer07",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
-      "CharacterName": "S42",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
-      "CharacterName": "K36",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
-      "CharacterName": "Dwight",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
-      "CharacterName": "Meg",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
-      "CharacterName": "Claudette",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
-      "CharacterName": "Chuckles",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
-      "CharacterName": "Bob",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
-      "CharacterName": "HillBilly",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
-      "CharacterName": "Witch",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
-      "CharacterName": "Jake",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
-      "CharacterName": "Nea",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
-      "CharacterName": "Ace",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
-      "CharacterName": "Nurse",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
-      "CharacterName": "Quentin",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
-      "CharacterName": "Zarina",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
-      "CharacterName": "Gunslinger",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
-      "CharacterName": "K30",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
-      "CharacterName": "S34",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
-      "CharacterName": "Jeff",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
-      "CharacterName": "Bear",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
-      "CharacterName": "Smoke",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
-      "CharacterName": "K34",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
-      "CharacterName": "K28",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
-      "CharacterName": "S31",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
-      "CharacterName": "Adam",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
-      "CharacterName": "Spirit",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
-      "CharacterName": "K32",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
-      "CharacterName": "S37",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
-      "CharacterName": "K24",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
-      "CharacterName": "S26",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
-      "CharacterName": "S27",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
-      "CharacterName": "Demogorgon",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
-      "CharacterName": "Nancy",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
-      "CharacterName": "Steve",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
-      "CharacterName": "Feng",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
-      "CharacterName": "K35",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
-      "CharacterName": "S41",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
-      "CharacterName": "K26",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
-      "CharacterName": "S29",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
-      "CharacterName": "Eric",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
-      "CharacterName": "S25",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
-      "CharacterName": "K23",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
-      "CharacterName": "S38",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
-      "CharacterName": "K27",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
-      "CharacterName": "S30",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
-      "CharacterName": "K25",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
-      "CharacterName": "S24",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
-      "CharacterName": "K22",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
-      "CharacterName": "S23",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
-      "CharacterName": "K21",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
-      "CharacterName": "Kate",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
-      "CharacterName": "Clown",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
-      "CharacterName": "S22",
-      "PrestigeLevel": 9,
+      "PrestigeLevel": 0,
       "BloodWebLevel": 50
     },
     {
       "CharacterName": "K20",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
-      "CharacterName": "S28",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
-      "CharacterName": "Jane",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
-      "CharacterName": "Yui",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
-      "CharacterName": "Oni",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
-      "CharacterName": "Bill",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
-      "CharacterName": "Ash",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
-      "CharacterName": "K33",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
-      "CharacterName": "S39",
-      "PrestigeLevel": 9,
-      "BloodWebLevel": 50
-    },
-    {
-      "CharacterName": "K29",
-      "PrestigeLevel": 9,
+      "PrestigeLevel": 0,
       "BloodWebLevel": 50
     },
     {
       "CharacterName": "S32",
-      "PrestigeLevel": 9,
+      "PrestigeLevel": 0,
       "BloodWebLevel": 50
     },
     {
       "CharacterName": "S33",
-      "PrestigeLevel": 9,
+      "PrestigeLevel": 0,
       "BloodWebLevel": 50
     },
     {
-      "CharacterName": "K31",
-      "PrestigeLevel": 9,
+      "CharacterName": "K25",
+      "PrestigeLevel": 0,
       "BloodWebLevel": 50
     },
     {
-      "CharacterName": "S35",
-      "PrestigeLevel": 9,
+      "CharacterName": "Steve",
+      "PrestigeLevel": 0,
       "BloodWebLevel": 50
     },
     {
-      "CharacterName": "S36",
-      "PrestigeLevel": 9,
+      "CharacterName": "S39",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "Eric",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "Nightmare",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "Nurse",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "Bear",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "Plague",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "Shape",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "S26",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "S43",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "S30",
+      "PrestigeLevel": 0,
       "BloodWebLevel": 50
     },
     {
       "CharacterName": "Ghostface",
-      "PrestigeLevel": 9,
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "Bob",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "S38",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "Legion",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "S27",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "S44",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "K27",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "Quentin",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "K33",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "Cannibal",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "Nancy",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "S42",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "K34",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "Ash",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "K24",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "Oni",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "K29",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "Pig",
+      "PrestigeLevel": 0,
       "BloodWebLevel": 50
     },
     {
       "CharacterName": "S40",
-      "PrestigeLevel": 9,
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "K39",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "K36",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "Demogorgon",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "S45",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "K38",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "K37",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "Dwight",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "Meg",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "Claudette",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "Chuckles",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "HillBilly",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "Witch",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "Jake",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "Nea",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "Ace",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "Bill",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "Smoke",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "Yui",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "Adam",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "Spirit",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "Feng",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "Jane",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "K31",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "S35",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "S36",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "S28",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "S23",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "K21",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "Kate",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "Clown",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "S22",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "Zarina",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "Gunslinger",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "K28",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "S31",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "K35",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "S41",
+      "PrestigeLevel": 0,
       "BloodWebLevel": 50
     },
     {
       "CharacterName": "Laurie",
-      "PrestigeLevel": 9,
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "K26",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "S29",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "K32",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "S37",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "K30",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "S34",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "S25",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "K23",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "Jeff",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "S24",
+      "PrestigeLevel": 0,
+      "BloodWebLevel": 50
+    },
+    {
+      "CharacterName": "K22",
+      "PrestigeLevel": 0,
       "BloodWebLevel": 50
     }
   ]

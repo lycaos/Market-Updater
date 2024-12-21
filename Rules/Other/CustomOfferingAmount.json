@@ -1,215 +1,263 @@
 [
   {
+    "Name": "BoneSplinter",
+    "Quantity": 74
+  },
+  {
     "Name": "ArdentRavenWreath",
-    "Quantity": 50
+    "Quantity": 52
   },
   {
     "Name": "ArdentShrikeWreath",
-    "Quantity": 50
+    "Quantity": 76
   },
   {
     "Name": "ArdentSpottedowlWreath",
-    "Quantity": 50
+    "Quantity": 13
   },
   {
     "Name": "ArdentTanagerWreath",
-    "Quantity": 50
+    "Quantity": 60
   },
   {
     "Name": "AzarovKey",
-    "Quantity": 50
+    "Quantity": 65
   },
   {
     "Name": "BlackSaltStatuette",
-    "Quantity": 50
+    "Quantity": 76
   },
   {
     "Name": "BlackWard",
-    "Quantity": 50
+    "Quantity": 74
   },
   {
     "Name": "BogLaurelSachet",
-    "Quantity": 50
+    "Quantity": 18
   },
   {
     "Name": "BoundEnvelope",
-    "Quantity": 50
+    "Quantity": 74
+  },
+  {
+    "Name": "CattleTag28",
+    "Quantity": 19
   },
   {
     "Name": "ChalkPouch",
-    "Quantity": 50
+    "Quantity": 49
   },
   {
     "Name": "CharredWeddingPhotograph",
-    "Quantity": 50
+    "Quantity": 71
   },
   {
     "Name": "ClearReagent",
-    "Quantity": 50
+    "Quantity": 80
+  },
+  {
+    "Name": "ColdwindCattleTag81",
+    "Quantity": 66
   },
   {
     "Name": "CreamChalkPouch",
-    "Quantity": 50
+    "Quantity": 67
+  },
+  {
+    "Name": "CrescentMoonBouquet",
+    "Quantity": 57
   },
   {
     "Name": "CrispleafAmaranthSachet",
-    "Quantity": 50
+    "Quantity": 82
   },
   {
     "Name": "CutCoin",
-    "Quantity": 50
+    "Quantity": 43
   },
   {
     "Name": "CypressMementoMori",
-    "Quantity": 50
+    "Quantity": 62
   },
   {
     "Name": "DevoutRavenWreath",
-    "Quantity": 50
+    "Quantity": 52
   },
   {
     "Name": "DevoutShrikeWreath",
-    "Quantity": 50
+    "Quantity": 85
   },
   {
     "Name": "DevoutSpottedowlWreath",
-    "Quantity": 50
+    "Quantity": 18
   },
   {
     "Name": "DevoutTanagerWreath",
-    "Quantity": 50
+    "Quantity": 82
   },
   {
     "Name": "EbonyMementoMori",
-    "Quantity": 50
+    "Quantity": 29
   },
   {
     "Name": "FaintReagent",
-    "Quantity": 50
+    "Quantity": 32
   },
   {
     "Name": "FragrantBogLaurel",
-    "Quantity": 50
+    "Quantity": 19
   },
   {
     "Name": "FragrantCrispleafAmaranth",
-    "Quantity": 50
+    "Quantity": 62
   },
   {
     "Name": "FragrantPrimroseBlossom",
-    "Quantity": 50
+    "Quantity": 47
   },
   {
     "Name": "FragrantSweetWilliam",
-    "Quantity": 50
+    "Quantity": 21
   },
   {
     "Name": "FreshBogLaurel",
-    "Quantity": 50
+    "Quantity": 86
   },
   {
     "Name": "FreshCrispleafAmaranth",
-    "Quantity": 50
+    "Quantity": 55
   },
   {
     "Name": "FreshPrimroseBlossom",
-    "Quantity": 50
+    "Quantity": 17
   },
   {
     "Name": "FreshSweetWilliam",
-    "Quantity": 50
+    "Quantity": 77
+  },
+  {
+    "Name": "FullMoonBouquet",
+    "Quantity": 64
   },
   {
     "Name": "HazyReagent",
-    "Quantity": 50
+    "Quantity": 44
   },
   {
     "Name": "HeartLocket",
-    "Quantity": 50
+    "Quantity": 9
   },
   {
     "Name": "HollowShell",
-    "Quantity": 50
+    "Quantity": 37
   },
   {
     "Name": "IvoryChalkPouch",
-    "Quantity": 50
+    "Quantity": 36
   },
   {
     "Name": "IvoryMementoMori",
-    "Quantity": 50
+    "Quantity": 9
+  },
+  {
+    "Name": "LunacyTicket",
+    "Quantity": 19
+  },
+  {
+    "Name": "MacmillanLedgerPage",
+    "Quantity": 68
   },
   {
     "Name": "MacMillanPhalanxBone",
-    "Quantity": 50
+    "Quantity": 72
   },
   {
     "Name": "MoldyOak",
-    "Quantity": 50
+    "Quantity": 33
   },
   {
     "Name": "MurkyReagent",
-    "Quantity": 50
+    "Quantity": 10
+  },
+  {
+    "Name": "NewMoonBouquet",
+    "Quantity": 54
+  },
+  {
+    "Name": "PElliotLunacyTicket",
+    "Quantity": 51
   },
   {
     "Name": "PetrifiedOak",
-    "Quantity": 50
+    "Quantity": 30
   },
   {
     "Name": "PrimroseBlossomSachet",
-    "Quantity": 50
+    "Quantity": 82
   },
   {
     "Name": "PutridOak",
-    "Quantity": 50
+    "Quantity": 68
+  },
+  {
+    "Name": "QuarterMoonBouquet",
+    "Quantity": 80
   },
   {
     "Name": "RavenWreath",
-    "Quantity": 50
+    "Quantity": 81
   },
   {
     "Name": "RottenOak",
-    "Quantity": 50
+    "Quantity": 29
   },
   {
     "Name": "SaltPouch",
-    "Quantity": 50
+    "Quantity": 13
   },
   {
     "Name": "ScratchedCoin",
-    "Quantity": 50
+    "Quantity": 56
   },
   {
     "Name": "SealedEnvelope",
-    "Quantity": 50
+    "Quantity": 58
   },
   {
     "Name": "ShinyCoin",
-    "Quantity": 50
+    "Quantity": 22
+  },
+  {
+    "Name": "ShreddedPlate",
+    "Quantity": 85
   },
   {
     "Name": "ShrikeWreath",
-    "Quantity": 50
+    "Quantity": 73
   },
   {
     "Name": "ShroudofBinding",
-    "Quantity": 50
+    "Quantity": 15
   },
   {
     "Name": "ShroudofSeparation",
-    "Quantity": 50
+    "Quantity": 53
   },
   {
     "Name": "ShroudofUnion",
-    "Quantity": 50
+    "Quantity": 72
+  },
+  {
+    "Name": "SignedLedgerPage",
+    "Quantity": 40
   },
   {
     "Name": "SpottedOwlWreath",
-    "Quantity": 50
+    "Quantity": 67
   },
   {
     "Name": "SweetWilliamSachet",
-    "Quantity": 50
+    "Quantity": 26
   },
   {
     "Name": "TanagerWreath",
@@ -217,118 +265,226 @@
   },
   {
     "Name": "TarnishedCoin",
-    "Quantity": 50
+    "Quantity": 49
   },
   {
     "Name": "VigosShroud",
-    "Quantity": 50
+    "Quantity": 14
+  },
+  {
+    "Name": "VirginiaPlate",
+    "Quantity": 68
   },
   {
     "Name": "WhiteWard",
-    "Quantity": 50
+    "Quantity": 73
   },
   {
     "Name": "VigosJarOfSaltyLips",
-    "Quantity": 50
+    "Quantity": 84
+  },
+  {
+    "Name": "MuddySplinter",
+    "Quantity": 28
+  },
+  {
+    "Name": "FumingCordage",
+    "Quantity": 23
+  },
+  {
+    "Name": "FumingWelcomeSign",
+    "Quantity": 26
   },
   {
     "Name": "GranmasCookbook",
-    "Quantity": 50
+    "Quantity": 37
   },
   {
     "Name": "EscapeCake",
-    "Quantity": 50
+    "Quantity": 31
   },
   {
     "Name": "SurvivorPudding",
-    "Quantity": 50
+    "Quantity": 19
   },
   {
     "Name": "BloodyPartyStreamers",
-    "Quantity": 50
+    "Quantity": 32
   },
   {
-    "Name": "ThePiedPiper",
-    "Quantity": 50
+    "Name": "Anniversary2019Offering",
+    "Quantity": 81
   },
   {
-    "Name": "UkraineThemeOffering",
-    "Quantity": 50
+    "Name": "Spring2024Offering",
+    "Quantity": 83
   },
   {
-    "Name": "QuantumThemeOffering",
-    "Quantity": 50
+    "Name": "Anniversary2024Offering",
+    "Quantity": 82
   },
   {
-    "Name": "KenyaThemeOffering",
-    "Quantity": 50
+    "Name": "Anniversary2022Offering",
+    "Quantity": 23
   },
   {
-    "Name": "TheLastMask",
-    "Quantity": 50
+    "Name": "Anniversary2023Offering",
+    "Quantity": 35
   },
   {
-    "Name": "MeteorThemeOffering",
-    "Quantity": 50
+    "Name": "Winter2024Offering",
+    "Quantity": 23
   },
   {
-    "Name": "JapaneseCountrySide",
-    "Quantity": 50
+    "Name": "Halloween2022Offering",
+    "Quantity": 23
   },
   {
-    "Name": "UmbraThemeOffering",
-    "Quantity": 50
+    "Name": "Anniversary2020Offering",
+    "Quantity": 47
+  },
+  {
+    "Name": "SummerOffering",
+    "Quantity": 84
   },
   {
     "Name": "EclipseThemeOffering",
-    "Quantity": 50
+    "Quantity": 25
   },
   {
-    "Name": "QatarThemeOffering",
-    "Quantity": 50
+    "Name": "HalloweenOffering",
+    "Quantity": 10
   },
   {
-    "Name": "ShatteredGlasses",
-    "Quantity": 50
+    "Name": "Halloween2021Offering",
+    "Quantity": 66
   },
   {
-    "Name": "IonThemeOffering",
-    "Quantity": 50
+    "Name": "RedMoney",
+    "Quantity": 13
   },
   {
-    "Name": "Jigsawpiece",
-    "Quantity": 50
+    "Name": "PaintedRiverRock",
+    "Quantity": 36
   },
   {
-    "Name": "SacrificalWard",
-    "Quantity": 50
+    "Name": "ChildrensBook",
+    "Quantity": 20
   },
   {
-    "Name": "TornBlueprint",
-    "Quantity": 50
-  },
-  {
-    "Name": "BloodiedBlueprint",
-    "Quantity": 50
-  },
-  {
-    "Name": "VigosBlueprint",
-    "Quantity": 50
-  },
-  {
-    "Name": "AnnotatedBlueprint",
-    "Quantity": 50
-  },
-  {
-    "Name": "WalesThemeOffering",
-    "Quantity": 50
+    "Name": "TheLastMask",
+    "Quantity": 46
   },
   {
     "Name": "WormholeThemeOffering",
-    "Quantity": 50
+    "Quantity": 85
+  },
+  {
+    "Name": "JapaneseCountrySide",
+    "Quantity": 17
+  },
+  {
+    "Name": "ShockSplinter",
+    "Quantity": 67
+  },
+  {
+    "Name": "EmergencyCertificate",
+    "Quantity": 80
+  },
+  {
+    "Name": "PsychiatricAssessmentReport",
+    "Quantity": 31
+  },
+  {
+    "Name": "ShatteredGlasses",
+    "Quantity": 17
+  },
+  {
+    "Name": "Anniversary2021Offering",
+    "Quantity": 76
+  },
+  {
+    "Name": "SacrificalWard",
+    "Quantity": 83
+  },
+  {
+    "Name": "TornBlueprint",
+    "Quantity": 77
+  },
+  {
+    "Name": "BloodiedBlueprint",
+    "Quantity": 72
+  },
+  {
+    "Name": "VigosBlueprint",
+    "Quantity": 85
+  },
+  {
+    "Name": "AnnotatedBlueprint",
+    "Quantity": 70
+  },
+  {
+    "Name": "WalesThemeOffering",
+    "Quantity": 75
+  },
+  {
+    "Name": "UkraineThemeOffering",
+    "Quantity": 78
+  },
+  {
+    "Name": "MeteorThemeOffering",
+    "Quantity": 67
+  },
+  {
+    "Name": "BlackSplinter",
+    "Quantity": 16
   },
   {
     "Name": "StrodeRealtyKey",
-    "Quantity": 50
+    "Quantity": 55
+  },
+  {
+    "Name": "DecrepitClapboard",
+    "Quantity": 81
+  },
+  {
+    "Name": "HarvestFestivalLeaflet",
+    "Quantity": 30
+  },
+  {
+    "Name": "GlassSplinter",
+    "Quantity": 42
+  },
+  {
+    "Name": "Jigsawpiece",
+    "Quantity": 64
+  },
+  {
+    "Name": "IonThemeOffering",
+    "Quantity": 59
+  },
+  {
+    "Name": "UmbraThemeOffering",
+    "Quantity": 40
+  },
+  {
+    "Name": "QuantumThemeOffering",
+    "Quantity": 61
+  },
+  {
+    "Name": "QatarThemeOffering",
+    "Quantity": 29
+  },
+  {
+    "Name": "SmokingSplinter",
+    "Quantity": 28
+  },
+  {
+    "Name": "ThePiedPiper",
+    "Quantity": 32
+  },
+  {
+    "Name": "KenyaThemeOffering",
+    "Quantity": 16
   }
 ]

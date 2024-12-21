@@ -1,5 +1,105 @@
 [
   {
+    "ItemId": "Item_Camper_OnryoTape",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": false,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "Tape",
+    "FilePath": "DeadByDaylight/Plugins/DBDCharacters/K27/Content/Data/Game/ItemDB.uasset"
+  },
+  {
+    "ItemId": "Item_Camper_K33Turret",
+    "Rarity": "EItemRarity::None",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": false,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "Remote Flame Turret",
+    "FilePath": "DeadByDaylight/Plugins/DBDCharacters/K33/Content/Data/Game/ItemDB.uasset"
+  },
+  {
+    "ItemId": "Item_Camper_ContaminationSerum",
+    "Rarity": "EItemRarity::None",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": false,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Vaccine",
+    "FilePath": "DeadByDaylight/Plugins/DBDCharacters/K24/Content/Data/Game/ItemDB.uasset"
+  },
+  {
+    "ItemId": "Item_Camper_K29InfectionRemover",
+    "Rarity": "EItemRarity::None",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": false,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "First Aid Spray",
+    "FilePath": "DeadByDaylight/Plugins/DBDCharacters/K29/Content/Data/Game/ItemDB.uasset"
+  },
+  {
+    "ItemId": "Item_Camper_K36MagicItem_Bracers",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": false,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "@#K36_MagicItem_Bracers_NAME",
+    "FilePath": "DeadByDaylight/Plugins/DBDCharacters/K36/Content/Data/Game/ItemDB.uasset"
+  },
+  {
+    "ItemId": "Item_Camper_K36MagicItem_Boots",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": false,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Boots of {0}",
+    "FilePath": "DeadByDaylight/Plugins/DBDCharacters/K36/Content/Data/Game/ItemDB.uasset"
+  },
+  {
+    "ItemId": "Item_Camper_K36MagicItem_VecnaEye",
+    "Rarity": "EItemRarity::UltraRare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": false,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Eye Of Vecna",
+    "FilePath": "DeadByDaylight/Plugins/DBDCharacters/K36/Content/Data/Game/ItemDB.uasset"
+  },
+  {
+    "ItemId": "Item_Camper_K36MagicItem_VecnaHand",
+    "Rarity": "EItemRarity::UltraRare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": false,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Hand Of Vecna",
+    "FilePath": "DeadByDaylight/Plugins/DBDCharacters/K36/Content/Data/Game/ItemDB.uasset"
+  },
+  {
+    "ItemId": "FireflyLantern",
+    "Rarity": "EItemRarity::None",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "FireflyV1",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Candelabra",
+    "FilePath": "DeadByDaylight/Plugins/Runtime/Bhvr/DBDGameModes/Firefly/Content/Data/Game/ItemDB.uasset"
+  },
+  {
+    "ItemId": "Item_Camper_K29InfectionRemover",
+    "Rarity": "EItemRarity::None",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": false,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Antidote",
+    "FilePath": "DeadByDaylight/Plugins/Runtime/Bhvr/DBDGameModes/Calamari/Content/Data/Game/ItemDB.uasset"
+  },
+  {
     "ItemId": "Item_Camper_AlexsToolbox",
     "Rarity": "EItemRarity::VeryRare",
     "Availability": "EItemAvailability::Available",
@@ -57,6 +157,16 @@
     "EventId": "None",
     "CharacterType": "EPlayerRole::VE_Camper",
     "Name": "Engineer's Toolbox",
+    "FilePath": "DeadByDaylight/Content/Data/ItemDB.uasset"
+  },
+  {
+    "ItemId": "Item_Camper_Firecracker_Chinese",
+    "Rarity": "EItemRarity::SpecialEvent",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "Lunar2023",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Chinese Firecracker",
     "FilePath": "DeadByDaylight/Content/Data/ItemDB.uasset"
   },
   {
@@ -178,5 +288,195 @@
     "CharacterType": "EPlayerRole::VE_Camper",
     "Name": "Worn-out Tools",
     "FilePath": "DeadByDaylight/Content/Data/ItemDB.uasset"
+  },
+  {
+    "ItemId": "Item_Camper_Map_Spring2024",
+    "Rarity": "EItemRarity::SpecialEvent",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "Spring2025",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Bloodsense Map",
+    "FilePath": "DeadByDaylight/Content/Data/Events/ApplePie/ItemDB.uasset"
+  },
+  {
+    "ItemId": "Item_Camper_JerryCan_Spring2025",
+    "Rarity": "EItemRarity::SpecialEvent",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": false,
+    "EventId": "Spring2025",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Blood Can",
+    "FilePath": "DeadByDaylight/Content/Data/Events/Icecream/ItemDB.uasset"
+  },
+  {
+    "ItemId": "Item_Camper_VoidBomb_Halloween2024",
+    "Rarity": "EItemRarity::SpecialEvent",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": false,
+    "EventId": "Halloween2024",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Void Crystal",
+    "FilePath": "DeadByDaylight/Content/Data/Events/Fudge/ItemDB.uasset"
+  },
+  {
+    "ItemId": "Item_Camper_Flashlight_Anniversary2022",
+    "Rarity": "EItemRarity::SpecialEvent",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "Anniversary2024",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Masquerade Flashlight",
+    "FilePath": "DeadByDaylight/Content/Data/Events/Meteor/ItemDB.uasset"
+  },
+  {
+    "ItemId": "Item_Camper_Medkit_Anniversary2022",
+    "Rarity": "EItemRarity::SpecialEvent",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "Anniversary2024",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Masquerade Med-Kit",
+    "FilePath": "DeadByDaylight/Content/Data/Events/Meteor/ItemDB.uasset"
+  },
+  {
+    "ItemId": "Item_Camper_Toolbox_Anniversary2022",
+    "Rarity": "EItemRarity::SpecialEvent",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "Anniversary2024",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Masquerade Toolbox",
+    "FilePath": "DeadByDaylight/Content/Data/Events/Meteor/ItemDB.uasset"
+  },
+  {
+    "ItemId": "Item_Camper_LunarToolbox",
+    "Rarity": "EItemRarity::SpecialEvent",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "Lunar2023",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Festive Toolbox",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/LunarEvent2021/ItemDB.uasset"
+  },
+  {
+    "ItemId": "Item_Camper_Flashlight_Anniversary2020",
+    "Rarity": "EItemRarity::SpecialEvent",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "Anniversary2021",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Anniversary Flashlight",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Anniversary2020/ItemDB.uasset"
+  },
+  {
+    "ItemId": "Item_Camper_Medkit_Anniversary2020",
+    "Rarity": "EItemRarity::SpecialEvent",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "Anniversary2021",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Anniversary Med-kit",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Anniversary2020/ItemDB.uasset"
+  },
+  {
+    "ItemId": "Item_Camper_Flashlight04",
+    "Rarity": "EItemRarity::SpecialEvent",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "Halloween2024",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Will O' Wisp",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/HalloweenItems/ItemDB.uasset"
+  },
+  {
+    "ItemId": "Item_Camper_Medkit05",
+    "Rarity": "EItemRarity::SpecialEvent",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "Halloween2024",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "All Hallows' Eve Lunchbox",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/HalloweenItems/ItemDB.uasset"
+  },
+  {
+    "ItemId": "Item_Camper_Firecracker_Flashbang",
+    "Rarity": "EItemRarity::None",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": false,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Flash Grenade",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Eclipse/ItemDB.uasset"
+  },
+  {
+    "ItemId": "Item_Blighted_Serum",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Zambia/ItemDB.uasset"
+  },
+  {
+    "ItemId": "Father_Key_Card",
+    "Rarity": "EItemRarity::None",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": false,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "Keycard",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Wormhole/ItemDB.uasset"
+  },
+  {
+    "ItemId": "Item_FragileObject",
+    "Rarity": "EItemRarity::None",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": false,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Pocket Mirror",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Jupiter/ItemDB.uasset"
+  },
+  {
+    "ItemId": "Item_Camper_AnniversaryToolbox",
+    "Rarity": "EItemRarity::SpecialEvent",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "Anniversary2021",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Anniversary Toolbox",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Anniversary2021/ItemDB.uasset"
+  },
+  {
+    "ItemId": "Item_Camper_Firecracker_WinterEvent",
+    "Rarity": "EItemRarity::SpecialEvent",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "Winter2024",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Winter Party Starter",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/WinterEvent/ItemDB.uasset"
+  },
+  {
+    "ItemId": "Item_Camper_K32Emp",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": false,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "EMP",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Umbra/ItemDB.uasset"
+  },
+  {
+    "ItemId": "Item_Camper_Firecracker_Anniversary2019",
+    "Rarity": "EItemRarity::SpecialEvent",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "Anniversary2019",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Third Year Party Starter",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Oman/ItemDB.uasset"
   }
 ]
