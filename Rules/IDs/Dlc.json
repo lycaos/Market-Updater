@@ -1,5 +1,21 @@
 [
   {
+    "CharacterName": "S45",
+    "CharacterIndex": "44",
+    "CharacterDefaultItem": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Taurie Cain",
+    "FilePath": "DeadByDaylight/Plugins/Runtime/Bhvr/DBDCharacters/S45/Content/Data/Game/CharacterDescriptionDB.uasset"
+  },
+  {
+    "CharacterName": "K38",
+    "CharacterIndex": "268435493",
+    "CharacterDefaultItem": "Item_Slasher_K38Power",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "The Houndmaster",
+    "FilePath": "DeadByDaylight/Plugins/Runtime/Bhvr/DBDCharacters/K38/Content/Data/Game/CharacterDescriptionDB.uasset"
+  },
+  {
     "CharacterName": "K37",
     "CharacterIndex": "268435492",
     "CharacterDefaultItem": "Item_Slasher_K37Power",
@@ -8,44 +24,12 @@
     "FilePath": "DeadByDaylight/Plugins/Runtime/Bhvr/DBDCharacters/K37/Content/Data/Game/CharacterDescriptionDB.uasset"
   },
   {
-    "CharacterName": "Legion",
-    "CharacterIndex": "268435469",
-    "CharacterDefaultItem": "Item_Slasher_Frenzy",
-    "CharacterType": "EPlayerRole::VE_Slasher",
-    "Name": "The Legion",
-    "FilePath": "DeadByDaylight/Plugins/DBDCharacters/K14/Content/Data/Game/CharacterDescriptionDB.uasset"
-  },
-  {
-    "CharacterName": "Cannibal",
-    "CharacterIndex": "268435464",
-    "CharacterDefaultItem": "Item_Slasher_LFChainsaw",
-    "CharacterType": "EPlayerRole::VE_Slasher",
-    "Name": "The Cannibal",
-    "FilePath": "DeadByDaylight/Plugins/DBDCharacters/K09/Content/Data/Game/CharacterDescriptionDB.uasset"
-  },
-  {
-    "CharacterName": "Nightmare",
-    "CharacterIndex": "268435465",
-    "CharacterDefaultItem": "Item_Slasher_DreamInducer",
-    "CharacterType": "EPlayerRole::VE_Slasher",
-    "Name": "The Nightmare",
-    "FilePath": "DeadByDaylight/Plugins/DBDCharacters/K10/Content/Data/Game/CharacterDescriptionDB.uasset"
-  },
-  {
-    "CharacterName": "S44",
-    "CharacterIndex": "43",
+    "CharacterName": "Nancy",
+    "CharacterIndex": "17",
     "CharacterDefaultItem": "None",
     "CharacterType": "EPlayerRole::VE_Camper",
-    "Name": "Trevor Belmont",
-    "FilePath": "DeadByDaylight/Plugins/DBDCharacters/S44/Content/Data/Game/CharacterDescriptionDB.uasset"
-  },
-  {
-    "CharacterName": "S43",
-    "CharacterIndex": "42",
-    "CharacterDefaultItem": "None",
-    "CharacterType": "EPlayerRole::VE_Camper",
-    "Name": "Lara Croft",
-    "FilePath": "DeadByDaylight/Plugins/DBDCharacters/S43/Content/Data/Game/CharacterDescriptionDB.uasset"
+    "Name": "Nancy Wheeler",
+    "FilePath": "DeadByDaylight/Plugins/DBDCharacters/S19/Content/Data/Game/CharacterDescriptionDB.uasset"
   },
   {
     "CharacterName": "Plague",
@@ -56,20 +40,92 @@
     "FilePath": "DeadByDaylight/Plugins/DBDCharacters/K15/Content/Data/Game/CharacterDescriptionDB.uasset"
   },
   {
-    "CharacterName": "Shape",
-    "CharacterIndex": "268435461",
-    "CharacterDefaultItem": "Item_Slasher_Stalker",
-    "CharacterType": "EPlayerRole::VE_Slasher",
-    "Name": "The Shape",
-    "FilePath": "DeadByDaylight/Plugins/DBDCharacters/K06/Content/Data/Game/CharacterDescriptionDB.uasset"
+    "CharacterName": "Quentin",
+    "CharacterIndex": "11",
+    "CharacterDefaultItem": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Quentin Smith",
+    "FilePath": "DeadByDaylight/Plugins/DBDCharacters/S11/Content/Data/Game/CharacterDescriptionDB.uasset"
   },
   {
-    "CharacterName": "Pig",
-    "CharacterIndex": "268435466",
-    "CharacterDefaultItem": "Item_Slasher_ReverseBearTrap",
+    "CharacterName": "Demogorgon",
+    "CharacterIndex": "268435472",
+    "CharacterDefaultItem": "Item_Slasher_QatarKillerPower",
     "CharacterType": "EPlayerRole::VE_Slasher",
-    "Name": "The Pig",
-    "FilePath": "DeadByDaylight/Plugins/DBDCharacters/K11/Content/Data/Game/CharacterDescriptionDB.uasset"
+    "Name": "The Demogorgon",
+    "FilePath": "DeadByDaylight/Plugins/DBDCharacters/K17/Content/Data/Game/CharacterDescriptionDB.uasset"
+  },
+  {
+    "CharacterName": "S30",
+    "CharacterIndex": "29",
+    "CharacterDefaultItem": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Yoichi Asakawa",
+    "FilePath": "DeadByDaylight/Plugins/DBDCharacters/S30/Content/Data/Game/CharacterDescriptionDB.uasset"
+  },
+  {
+    "CharacterName": "S43",
+    "CharacterIndex": "42",
+    "CharacterDefaultItem": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Lara Croft",
+    "FilePath": "DeadByDaylight/Plugins/DBDCharacters/S43/Content/Data/Game/CharacterDescriptionDB.uasset"
+  },
+  {
+    "CharacterName": "Eric",
+    "CharacterIndex": "12",
+    "CharacterDefaultItem": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Detective Tapp",
+    "FilePath": "DeadByDaylight/Plugins/DBDCharacters/S12/Content/Data/Game/CharacterDescriptionDB.uasset"
+  },
+  {
+    "CharacterName": "Steve",
+    "CharacterIndex": "18",
+    "CharacterDefaultItem": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Steve Harrington",
+    "FilePath": "DeadByDaylight/Plugins/DBDCharacters/S18/Content/Data/Game/CharacterDescriptionDB.uasset"
+  },
+  {
+    "CharacterName": "K29",
+    "CharacterIndex": "268435484",
+    "CharacterDefaultItem": "Item_Slasher_K29Power",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "The Mastermind",
+    "FilePath": "DeadByDaylight/Plugins/DBDCharacters/K29/Content/Data/Game/CharacterDescriptionDB.uasset"
+  },
+  {
+    "CharacterName": "Legion",
+    "CharacterIndex": "268435469",
+    "CharacterDefaultItem": "Item_Slasher_Frenzy",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "The Legion",
+    "FilePath": "DeadByDaylight/Plugins/DBDCharacters/K14/Content/Data/Game/CharacterDescriptionDB.uasset"
+  },
+  {
+    "CharacterName": "K33",
+    "CharacterIndex": "268435488",
+    "CharacterDefaultItem": "Item_Slasher_K33Power",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "The Xenomorph",
+    "FilePath": "DeadByDaylight/Plugins/DBDCharacters/K33/Content/Data/Game/CharacterDescriptionDB.uasset"
+  },
+  {
+    "CharacterName": "S27",
+    "CharacterIndex": "26",
+    "CharacterDefaultItem": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Leon S. Kennedy",
+    "FilePath": "DeadByDaylight/Plugins/DBDCharacters/S27/Content/Data/Game/CharacterDescriptionDB.uasset"
+  },
+  {
+    "CharacterName": "Bob",
+    "CharacterIndex": "268435457",
+    "CharacterDefaultItem": "Item_Slasher_CloakBell",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "The Wraith",
+    "FilePath": "DeadByDaylight/Plugins/DBDCharacters/K02/Content/Data/Game/CharacterDescriptionDB.uasset"
   },
   {
     "CharacterName": "Killer07",
@@ -78,6 +134,150 @@
     "CharacterType": "EPlayerRole::VE_Slasher",
     "Name": "The Doctor",
     "FilePath": "DeadByDaylight/Plugins/DBDCharacters/K07/Content/Data/Game/CharacterDescriptionDB.uasset"
+  },
+  {
+    "CharacterName": "S40",
+    "CharacterIndex": "39",
+    "CharacterDefaultItem": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Alan Wake",
+    "FilePath": "DeadByDaylight/Plugins/DBDCharacters/S40/Content/Data/Game/CharacterDescriptionDB.uasset"
+  },
+  {
+    "CharacterName": "Ash",
+    "CharacterIndex": "16",
+    "CharacterDefaultItem": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Ashley J. Williams",
+    "FilePath": "DeadByDaylight/Plugins/DBDCharacters/S17/Content/Data/Game/CharacterDescriptionDB.uasset"
+  },
+  {
+    "CharacterName": "S39",
+    "CharacterIndex": "38",
+    "CharacterDefaultItem": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Ellen Ripley",
+    "FilePath": "DeadByDaylight/Plugins/DBDCharacters/S39/Content/Data/Game/CharacterDescriptionDB.uasset"
+  },
+  {
+    "CharacterName": "Bear",
+    "CharacterIndex": "268435463",
+    "CharacterDefaultItem": "Item_Slasher_Hatchet",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "The Huntress",
+    "FilePath": "DeadByDaylight/Plugins/DBDCharacters/K08/Content/Data/Game/CharacterDescriptionDB.uasset"
+  },
+  {
+    "CharacterName": "K25",
+    "CharacterIndex": "268435480",
+    "CharacterDefaultItem": "Item_Slasher_K25Power",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "The Cenobite",
+    "FilePath": "DeadByDaylight/Plugins/DBDCharacters/K25/Content/Data/Game/CharacterDescriptionDB.uasset"
+  },
+  {
+    "CharacterName": "K34",
+    "CharacterIndex": "268435489",
+    "CharacterDefaultItem": "Item_Slasher_K34Power",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "The Good Guy",
+    "FilePath": "DeadByDaylight/Plugins/DBDCharacters/K34/Content/Data/Game/CharacterDescriptionDB.uasset"
+  },
+  {
+    "CharacterName": "Ghostface",
+    "CharacterIndex": "268435471",
+    "CharacterDefaultItem": "Item_Slasher_GhostPower",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "The Ghost Face",
+    "FilePath": "DeadByDaylight/Plugins/DBDCharacters/K16/Content/Data/Game/CharacterDescriptionDB.uasset"
+  },
+  {
+    "CharacterName": "Nightmare",
+    "CharacterIndex": "268435465",
+    "CharacterDefaultItem": "Item_Slasher_DreamInducer",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "The Nightmare",
+    "FilePath": "DeadByDaylight/Plugins/DBDCharacters/K10/Content/Data/Game/CharacterDescriptionDB.uasset"
+  },
+  {
+    "CharacterName": "Nurse",
+    "CharacterIndex": "268435459",
+    "CharacterDefaultItem": "Item_Slasher_Blinker",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "The Nurse",
+    "FilePath": "DeadByDaylight/Plugins/DBDCharacters/K04/Content/Data/Game/CharacterDescriptionDB.uasset"
+  },
+  {
+    "CharacterName": "S33",
+    "CharacterIndex": "32",
+    "CharacterDefaultItem": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Rebecca Chambers",
+    "FilePath": "DeadByDaylight/Plugins/DBDCharacters/S33/Content/Data/Game/CharacterDescriptionDB.uasset"
+  },
+  {
+    "CharacterName": "Oni",
+    "CharacterIndex": "268435473",
+    "CharacterDefaultItem": "Item_Slasher_Kanobo",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "The Oni",
+    "FilePath": "DeadByDaylight/Plugins/DBDCharacters/K18/Content/Data/Game/CharacterDescriptionDB.uasset"
+  },
+  {
+    "CharacterName": "S38",
+    "CharacterIndex": "37",
+    "CharacterDefaultItem": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Nicolas Cage",
+    "FilePath": "DeadByDaylight/Plugins/DBDCharacters/S38/Content/Data/Game/Charms/CharacterDescriptionDB.uasset"
+  },
+  {
+    "CharacterName": "S26",
+    "CharacterIndex": "25",
+    "CharacterDefaultItem": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Jill Valentine",
+    "FilePath": "DeadByDaylight/Plugins/DBDCharacters/S26/Content/Data/Game/CharacterDescriptionDB.uasset"
+  },
+  {
+    "CharacterName": "Shape",
+    "CharacterIndex": "268435461",
+    "CharacterDefaultItem": "Item_Slasher_Stalker",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "The Shape",
+    "FilePath": "DeadByDaylight/Plugins/DBDCharacters/K06/Content/Data/Game/CharacterDescriptionDB.uasset"
+  },
+  {
+    "CharacterName": "K20",
+    "CharacterIndex": "268435475",
+    "CharacterDefaultItem": "Item_Slasher_TormentMode",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "The Executioner",
+    "FilePath": "DeadByDaylight/Plugins/DBDCharacters/K20/Content/Data/Game/CharacterDescriptionDB.uasset"
+  },
+  {
+    "CharacterName": "S32",
+    "CharacterIndex": "31",
+    "CharacterDefaultItem": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Ada Wong",
+    "FilePath": "DeadByDaylight/Plugins/DBDCharacters/S32/Content/Data/Game/CharacterDescriptionDB.uasset"
+  },
+  {
+    "CharacterName": "K24",
+    "CharacterIndex": "268435479",
+    "CharacterDefaultItem": "Item_Slasher_K24Power",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "The Nemesis",
+    "FilePath": "DeadByDaylight/Plugins/DBDCharacters/K24/Content/Data/Game/CharacterDescriptionDB.uasset"
+  },
+  {
+    "CharacterName": "S44",
+    "CharacterIndex": "43",
+    "CharacterDefaultItem": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Trevor Belmont",
+    "FilePath": "DeadByDaylight/Plugins/DBDCharacters/S44/Content/Data/Game/CharacterDescriptionDB.uasset"
   },
   {
     "CharacterName": "S42",
@@ -94,6 +294,30 @@
     "CharacterType": "EPlayerRole::VE_Slasher",
     "Name": "The Lich",
     "FilePath": "DeadByDaylight/Plugins/DBDCharacters/K36/Content/Data/Game/CharacterDescriptionDB.uasset"
+  },
+  {
+    "CharacterName": "Pig",
+    "CharacterIndex": "268435466",
+    "CharacterDefaultItem": "Item_Slasher_ReverseBearTrap",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "The Pig",
+    "FilePath": "DeadByDaylight/Plugins/DBDCharacters/K11/Content/Data/Game/CharacterDescriptionDB.uasset"
+  },
+  {
+    "CharacterName": "K27",
+    "CharacterIndex": "268435482",
+    "CharacterDefaultItem": "Item_Slasher_K27Power",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "The Onryō",
+    "FilePath": "DeadByDaylight/Plugins/DBDCharacters/K27/Content/Data/Game/CharacterDescriptionDB.uasset"
+  },
+  {
+    "CharacterName": "Cannibal",
+    "CharacterIndex": "268435464",
+    "CharacterDefaultItem": "Item_Slasher_LFChainsaw",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "The Cannibal",
+    "FilePath": "DeadByDaylight/Plugins/DBDCharacters/K09/Content/Data/Game/CharacterDescriptionDB.uasset"
   },
   {
     "CharacterName": "Dwight",
@@ -125,14 +349,6 @@
     "CharacterDefaultItem": "Item_Slasher_Beartrap",
     "CharacterType": "EPlayerRole::VE_Slasher",
     "Name": "The Trapper",
-    "FilePath": "DeadByDaylight/Content/Data/CharacterDescriptionDB.uasset"
-  },
-  {
-    "CharacterName": "Bob",
-    "CharacterIndex": "268435457",
-    "CharacterDefaultItem": "Item_Slasher_CloakBell",
-    "CharacterType": "EPlayerRole::VE_Slasher",
-    "Name": "The Wraith",
     "FilePath": "DeadByDaylight/Content/Data/CharacterDescriptionDB.uasset"
   },
   {
@@ -176,20 +392,164 @@
     "FilePath": "DeadByDaylight/Content/Data/CharacterDescriptionDB.uasset"
   },
   {
-    "CharacterName": "Nurse",
-    "CharacterIndex": "268435459",
-    "CharacterDefaultItem": "Item_Slasher_Blinker",
-    "CharacterType": "EPlayerRole::VE_Slasher",
-    "Name": "The Nurse",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/TheNurse/CharacterDescriptionDB.uasset"
-  },
-  {
-    "CharacterName": "Quentin",
-    "CharacterIndex": "11",
+    "CharacterName": "Jane",
+    "CharacterIndex": "15",
     "CharacterDefaultItem": "None",
     "CharacterType": "EPlayerRole::VE_Camper",
-    "Name": "Quentin Smith",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/England/CharacterDescriptionDB.uasset"
+    "Name": "Jane Romero",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Mali/CharacterDescriptionDB.uasset"
+  },
+  {
+    "CharacterName": "Bill",
+    "CharacterIndex": "7",
+    "CharacterDefaultItem": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "William \"Bill\" Overbeck",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/L4D/CharacterDescriptionDB.uasset"
+  },
+  {
+    "CharacterName": "S22",
+    "CharacterIndex": "21",
+    "CharacterDefaultItem": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Cheryl Mason",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Wales/CharacterDescriptionDB.uasset"
+  },
+  {
+    "CharacterName": "Kate",
+    "CharacterIndex": "10",
+    "CharacterDefaultItem": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Kate Denson",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Guam/CharacterDescriptionDB.uasset"
+  },
+  {
+    "CharacterName": "Clown",
+    "CharacterIndex": "268435467",
+    "CharacterDefaultItem": "Item_Slasher_GasBomb",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "The Clown",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Guam/CharacterDescriptionDB.uasset"
+  },
+  {
+    "CharacterName": "Yui",
+    "CharacterIndex": "19",
+    "CharacterDefaultItem": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Yui Kimura",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Sweden/CharacterDescriptionDB.uasset"
+  },
+  {
+    "CharacterName": "S25",
+    "CharacterIndex": "24",
+    "CharacterDefaultItem": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Yun-Jin Lee",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Comet/CharacterDescriptionDB.uasset"
+  },
+  {
+    "CharacterName": "K23",
+    "CharacterIndex": "268435478",
+    "CharacterDefaultItem": "Item_Slasher_ThrowingKnives",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "The Trickster",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Comet/CharacterDescriptionDB.uasset"
+  },
+  {
+    "CharacterName": "Laurie",
+    "CharacterIndex": "5",
+    "CharacterDefaultItem": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Laurie Strode",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/DLC2/CharacterDescriptionDB.uasset"
+  },
+  {
+    "CharacterName": "S23",
+    "CharacterIndex": "22",
+    "CharacterDefaultItem": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Felix Richter",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Yemen/CharacterDescriptionDB.uasset"
+  },
+  {
+    "CharacterName": "K21",
+    "CharacterIndex": "268435476",
+    "CharacterDefaultItem": "Item_Slasher_K21Power",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "The Blight",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Yemen/CharacterDescriptionDB.uasset"
+  },
+  {
+    "CharacterName": "K32",
+    "CharacterIndex": "268435487",
+    "CharacterDefaultItem": "Item_Slasher_K32Power",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "The Singularity",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Umbra/CharacterDescriptionDB.uasset"
+  },
+  {
+    "CharacterName": "S37",
+    "CharacterIndex": "36",
+    "CharacterDefaultItem": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Gabriel Soma",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Umbra/CharacterDescriptionDB.uasset"
+  },
+  {
+    "CharacterName": "Adam",
+    "CharacterIndex": "13",
+    "CharacterDefaultItem": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Adam Francis",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Haiti/CharacterDescriptionDB.uasset"
+  },
+  {
+    "CharacterName": "Spirit",
+    "CharacterIndex": "268435468",
+    "CharacterDefaultItem": "Item_Slasher_PhaseWalker",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "The Spirit",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Haiti/CharacterDescriptionDB.uasset"
+  },
+  {
+    "CharacterName": "Smoke",
+    "CharacterIndex": "9",
+    "CharacterDefaultItem": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "David King",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/DLC5/CharacterDescriptionDB.uasset"
+  },
+  {
+    "CharacterName": "K28",
+    "CharacterIndex": "268435483",
+    "CharacterDefaultItem": "Item_Slasher_K28Power",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "The Dredge",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Meteor/CharacterDescriptionDB.uasset"
+  },
+  {
+    "CharacterName": "S31",
+    "CharacterIndex": "30",
+    "CharacterDefaultItem": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Haddie Kaur",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Meteor/CharacterDescriptionDB.uasset"
+  },
+  {
+    "CharacterName": "K26",
+    "CharacterIndex": "268435481",
+    "CharacterDefaultItem": "Item_Slasher_K26Power",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "The Artist",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Ion/CharacterDescriptionDB.uasset"
+  },
+  {
+    "CharacterName": "S29",
+    "CharacterIndex": "28",
+    "CharacterDefaultItem": "None",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Jonah Vasquez",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Ion/CharacterDescriptionDB.uasset"
   },
   {
     "CharacterName": "Zarina",
@@ -224,228 +584,12 @@
     "FilePath": "DeadByDaylight/Content/Data/Dlc/Quantum/CharacterDescriptionDB.uasset"
   },
   {
-    "CharacterName": "Jeff",
-    "CharacterIndex": "14",
-    "CharacterDefaultItem": "None",
-    "CharacterType": "EPlayerRole::VE_Camper",
-    "Name": "Jeff Johansen",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/Kenya/CharacterDescriptionDB.uasset"
-  },
-  {
-    "CharacterName": "Bear",
-    "CharacterIndex": "268435463",
-    "CharacterDefaultItem": "Item_Slasher_Hatchet",
-    "CharacterType": "EPlayerRole::VE_Slasher",
-    "Name": "The Huntress",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/DLC5/CharacterDescriptionDB.uasset"
-  },
-  {
-    "CharacterName": "Smoke",
-    "CharacterIndex": "9",
-    "CharacterDefaultItem": "None",
-    "CharacterType": "EPlayerRole::VE_Camper",
-    "Name": "David King",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/DLC5/CharacterDescriptionDB.uasset"
-  },
-  {
-    "CharacterName": "K34",
-    "CharacterIndex": "268435489",
-    "CharacterDefaultItem": "Item_Slasher_K34Power",
-    "CharacterType": "EPlayerRole::VE_Slasher",
-    "Name": "The Good Guy",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/Yerkes/CharacterDescriptionDB.uasset"
-  },
-  {
-    "CharacterName": "K28",
-    "CharacterIndex": "268435483",
-    "CharacterDefaultItem": "Item_Slasher_K28Power",
-    "CharacterType": "EPlayerRole::VE_Slasher",
-    "Name": "The Dredge",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/Meteor/CharacterDescriptionDB.uasset"
-  },
-  {
-    "CharacterName": "S31",
-    "CharacterIndex": "30",
-    "CharacterDefaultItem": "None",
-    "CharacterType": "EPlayerRole::VE_Camper",
-    "Name": "Haddie Kaur",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/Meteor/CharacterDescriptionDB.uasset"
-  },
-  {
-    "CharacterName": "Adam",
-    "CharacterIndex": "13",
-    "CharacterDefaultItem": "None",
-    "CharacterType": "EPlayerRole::VE_Camper",
-    "Name": "Adam Francis",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/Haiti/CharacterDescriptionDB.uasset"
-  },
-  {
-    "CharacterName": "Spirit",
-    "CharacterIndex": "268435468",
-    "CharacterDefaultItem": "Item_Slasher_PhaseWalker",
-    "CharacterType": "EPlayerRole::VE_Slasher",
-    "Name": "The Spirit",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/Haiti/CharacterDescriptionDB.uasset"
-  },
-  {
-    "CharacterName": "K32",
-    "CharacterIndex": "268435487",
-    "CharacterDefaultItem": "Item_Slasher_K32Power",
-    "CharacterType": "EPlayerRole::VE_Slasher",
-    "Name": "The Singularity",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/Umbra/CharacterDescriptionDB.uasset"
-  },
-  {
-    "CharacterName": "S37",
-    "CharacterIndex": "36",
-    "CharacterDefaultItem": "None",
-    "CharacterType": "EPlayerRole::VE_Camper",
-    "Name": "Gabriel Soma",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/Umbra/CharacterDescriptionDB.uasset"
-  },
-  {
-    "CharacterName": "K24",
-    "CharacterIndex": "268435479",
-    "CharacterDefaultItem": "Item_Slasher_K24Power",
-    "CharacterType": "EPlayerRole::VE_Slasher",
-    "Name": "The Nemesis",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/Eclipse/CharacterDescriptionDB.uasset"
-  },
-  {
-    "CharacterName": "S26",
-    "CharacterIndex": "25",
-    "CharacterDefaultItem": "None",
-    "CharacterType": "EPlayerRole::VE_Camper",
-    "Name": "Jill Valentine",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/Eclipse/CharacterDescriptionDB.uasset"
-  },
-  {
-    "CharacterName": "S27",
-    "CharacterIndex": "26",
-    "CharacterDefaultItem": "None",
-    "CharacterType": "EPlayerRole::VE_Camper",
-    "Name": "Leon S. Kennedy",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/Eclipse/CharacterDescriptionDB.uasset"
-  },
-  {
-    "CharacterName": "Demogorgon",
-    "CharacterIndex": "268435472",
-    "CharacterDefaultItem": "Item_Slasher_QatarKillerPower",
-    "CharacterType": "EPlayerRole::VE_Slasher",
-    "Name": "The Demogorgon",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/Qatar/CharacterDescriptionDB.uasset"
-  },
-  {
-    "CharacterName": "Nancy",
-    "CharacterIndex": "17",
-    "CharacterDefaultItem": "None",
-    "CharacterType": "EPlayerRole::VE_Camper",
-    "Name": "Nancy Wheeler",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/Qatar/CharacterDescriptionDB.uasset"
-  },
-  {
-    "CharacterName": "Steve",
-    "CharacterIndex": "18",
-    "CharacterDefaultItem": "None",
-    "CharacterType": "EPlayerRole::VE_Camper",
-    "Name": "Steve Harrington",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/Qatar/CharacterDescriptionDB.uasset"
-  },
-  {
     "CharacterName": "Feng",
     "CharacterIndex": "8",
     "CharacterDefaultItem": "None",
     "CharacterType": "EPlayerRole::VE_Camper",
     "Name": "Feng Min",
     "FilePath": "DeadByDaylight/Content/Data/Dlc/DLC4/CharacterDescriptionDB.uasset"
-  },
-  {
-    "CharacterName": "K35",
-    "CharacterIndex": "268435490",
-    "CharacterDefaultItem": "Item_Slasher_K35Power",
-    "CharacterType": "EPlayerRole::VE_Slasher",
-    "Name": "The Unknown",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/ApplePie/CharacterDescriptionDB.uasset"
-  },
-  {
-    "CharacterName": "S41",
-    "CharacterIndex": "40",
-    "CharacterDefaultItem": "None",
-    "CharacterType": "EPlayerRole::VE_Camper",
-    "Name": "Sable Ward",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/ApplePie/CharacterDescriptionDB.uasset"
-  },
-  {
-    "CharacterName": "K26",
-    "CharacterIndex": "268435481",
-    "CharacterDefaultItem": "Item_Slasher_K26Power",
-    "CharacterType": "EPlayerRole::VE_Slasher",
-    "Name": "The Artist",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/Ion/CharacterDescriptionDB.uasset"
-  },
-  {
-    "CharacterName": "S29",
-    "CharacterIndex": "28",
-    "CharacterDefaultItem": "None",
-    "CharacterType": "EPlayerRole::VE_Camper",
-    "Name": "Jonah Vasquez",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/Ion/CharacterDescriptionDB.uasset"
-  },
-  {
-    "CharacterName": "Eric",
-    "CharacterIndex": "12",
-    "CharacterDefaultItem": "None",
-    "CharacterType": "EPlayerRole::VE_Camper",
-    "Name": "Detective Tapp",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/Finland/CharacterDescriptionDB.uasset"
-  },
-  {
-    "CharacterName": "S25",
-    "CharacterIndex": "24",
-    "CharacterDefaultItem": "None",
-    "CharacterType": "EPlayerRole::VE_Camper",
-    "Name": "Yun-Jin Lee",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/Comet/CharacterDescriptionDB.uasset"
-  },
-  {
-    "CharacterName": "K23",
-    "CharacterIndex": "268435478",
-    "CharacterDefaultItem": "Item_Slasher_ThrowingKnives",
-    "CharacterType": "EPlayerRole::VE_Slasher",
-    "Name": "The Trickster",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/Comet/CharacterDescriptionDB.uasset"
-  },
-  {
-    "CharacterName": "S38",
-    "CharacterIndex": "37",
-    "CharacterDefaultItem": "None",
-    "CharacterType": "EPlayerRole::VE_Camper",
-    "Name": "Nicolas Cage",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/Venus/CharacterDescriptionDB.uasset"
-  },
-  {
-    "CharacterName": "K27",
-    "CharacterIndex": "268435482",
-    "CharacterDefaultItem": "Item_Slasher_K27Power",
-    "CharacterType": "EPlayerRole::VE_Slasher",
-    "Name": "The Onryō",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/Kepler/CharacterDescriptionDB.uasset"
-  },
-  {
-    "CharacterName": "S30",
-    "CharacterIndex": "29",
-    "CharacterDefaultItem": "None",
-    "CharacterType": "EPlayerRole::VE_Camper",
-    "Name": "Yoichi Asakawa",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/Kepler/CharacterDescriptionDB.uasset"
-  },
-  {
-    "CharacterName": "K25",
-    "CharacterIndex": "268435480",
-    "CharacterDefaultItem": "Item_Slasher_K25Power",
-    "CharacterType": "EPlayerRole::VE_Slasher",
-    "Name": "The Cenobite",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/Gemini/CharacterDescriptionDB.uasset"
   },
   {
     "CharacterName": "S24",
@@ -464,52 +608,28 @@
     "FilePath": "DeadByDaylight/Content/Data/Dlc/Aurora/CharacterDescriptionDB.uasset"
   },
   {
-    "CharacterName": "S23",
-    "CharacterIndex": "22",
+    "CharacterName": "Jeff",
+    "CharacterIndex": "14",
     "CharacterDefaultItem": "None",
     "CharacterType": "EPlayerRole::VE_Camper",
-    "Name": "Felix Richter",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/Yemen/CharacterDescriptionDB.uasset"
+    "Name": "Jeff Johansen",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Kenya/CharacterDescriptionDB.uasset"
   },
   {
-    "CharacterName": "K21",
-    "CharacterIndex": "268435476",
-    "CharacterDefaultItem": "Item_Slasher_K21Power",
+    "CharacterName": "K35",
+    "CharacterIndex": "268435490",
+    "CharacterDefaultItem": "Item_Slasher_K35Power",
     "CharacterType": "EPlayerRole::VE_Slasher",
-    "Name": "The Blight",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/Yemen/CharacterDescriptionDB.uasset"
+    "Name": "The Unknown",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Applepie/CharacterDescriptionDB.uasset"
   },
   {
-    "CharacterName": "Kate",
-    "CharacterIndex": "10",
+    "CharacterName": "S41",
+    "CharacterIndex": "40",
     "CharacterDefaultItem": "None",
     "CharacterType": "EPlayerRole::VE_Camper",
-    "Name": "Kate Denson",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/Guam/CharacterDescriptionDB.uasset"
-  },
-  {
-    "CharacterName": "Clown",
-    "CharacterIndex": "268435467",
-    "CharacterDefaultItem": "Item_Slasher_GasBomb",
-    "CharacterType": "EPlayerRole::VE_Slasher",
-    "Name": "The Clown",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/Guam/CharacterDescriptionDB.uasset"
-  },
-  {
-    "CharacterName": "S22",
-    "CharacterIndex": "21",
-    "CharacterDefaultItem": "None",
-    "CharacterType": "EPlayerRole::VE_Camper",
-    "Name": "Cheryl Mason",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/Wales/CharacterDescriptionDB.uasset"
-  },
-  {
-    "CharacterName": "K20",
-    "CharacterIndex": "268435475",
-    "CharacterDefaultItem": "Item_Slasher_TormentMode",
-    "CharacterType": "EPlayerRole::VE_Slasher",
-    "Name": "The Executioner",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/Wales/CharacterDescriptionDB.uasset"
+    "Name": "Sable Ward",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Applepie/CharacterDescriptionDB.uasset"
   },
   {
     "CharacterName": "S28",
@@ -518,86 +638,6 @@
     "CharacterType": "EPlayerRole::VE_Camper",
     "Name": "Mikaela Reid",
     "FilePath": "DeadByDaylight/Content/Data/Dlc/Hubble/CharacterDescriptionDB.uasset"
-  },
-  {
-    "CharacterName": "Jane",
-    "CharacterIndex": "15",
-    "CharacterDefaultItem": "None",
-    "CharacterType": "EPlayerRole::VE_Camper",
-    "Name": "Jane Romero",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/Mali/CharacterDescriptionDB.uasset"
-  },
-  {
-    "CharacterName": "Yui",
-    "CharacterIndex": "19",
-    "CharacterDefaultItem": "None",
-    "CharacterType": "EPlayerRole::VE_Camper",
-    "Name": "Yui Kimura",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/Sweden/CharacterDescriptionDB.uasset"
-  },
-  {
-    "CharacterName": "Oni",
-    "CharacterIndex": "268435473",
-    "CharacterDefaultItem": "Item_Slasher_Kanobo",
-    "CharacterType": "EPlayerRole::VE_Slasher",
-    "Name": "The Oni",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/Sweden/CharacterDescriptionDB.uasset"
-  },
-  {
-    "CharacterName": "Bill",
-    "CharacterIndex": "7",
-    "CharacterDefaultItem": "None",
-    "CharacterType": "EPlayerRole::VE_Camper",
-    "Name": "William \"Bill\" Overbeck",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/L4D/CharacterDescriptionDB.uasset"
-  },
-  {
-    "CharacterName": "Ash",
-    "CharacterIndex": "16",
-    "CharacterDefaultItem": "None",
-    "CharacterType": "EPlayerRole::VE_Camper",
-    "Name": "Ashley J. Williams",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/Ash/CharacterDescriptionDB.uasset"
-  },
-  {
-    "CharacterName": "K33",
-    "CharacterIndex": "268435488",
-    "CharacterDefaultItem": "Item_Slasher_K33Power",
-    "CharacterType": "EPlayerRole::VE_Slasher",
-    "Name": "The Xenomorph",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/Wormhole/CharacterDescriptionDB.uasset"
-  },
-  {
-    "CharacterName": "S39",
-    "CharacterIndex": "38",
-    "CharacterDefaultItem": "None",
-    "CharacterType": "EPlayerRole::VE_Camper",
-    "Name": "Ellen Ripley",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/Wormhole/CharacterDescriptionDB.uasset"
-  },
-  {
-    "CharacterName": "K29",
-    "CharacterIndex": "268435484",
-    "CharacterDefaultItem": "Item_Slasher_K29Power",
-    "CharacterType": "EPlayerRole::VE_Slasher",
-    "Name": "The Mastermind",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/Orion/CharacterDescriptionDB.uasset"
-  },
-  {
-    "CharacterName": "S32",
-    "CharacterIndex": "31",
-    "CharacterDefaultItem": "None",
-    "CharacterType": "EPlayerRole::VE_Camper",
-    "Name": "Ada Wong",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/Orion/CharacterDescriptionDB.uasset"
-  },
-  {
-    "CharacterName": "S33",
-    "CharacterIndex": "32",
-    "CharacterDefaultItem": "None",
-    "CharacterType": "EPlayerRole::VE_Camper",
-    "Name": "Rebecca Chambers",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/Orion/CharacterDescriptionDB.uasset"
   },
   {
     "CharacterName": "K31",
@@ -622,29 +662,5 @@
     "CharacterType": "EPlayerRole::VE_Camper",
     "Name": "Renato Lyra",
     "FilePath": "DeadByDaylight/Content/Data/Dlc/Saturn/CharacterDescriptionDB.uasset"
-  },
-  {
-    "CharacterName": "Ghostface",
-    "CharacterIndex": "268435471",
-    "CharacterDefaultItem": "Item_Slasher_GhostPower",
-    "CharacterType": "EPlayerRole::VE_Slasher",
-    "Name": "The Ghost Face",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/Oman/CharacterDescriptionDB.uasset"
-  },
-  {
-    "CharacterName": "S40",
-    "CharacterIndex": "39",
-    "CharacterDefaultItem": "None",
-    "CharacterType": "EPlayerRole::VE_Camper",
-    "Name": "Alan Wake",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/Zodiac/CharacterDescriptionDB.uasset"
-  },
-  {
-    "CharacterName": "Laurie",
-    "CharacterIndex": "5",
-    "CharacterDefaultItem": "None",
-    "CharacterType": "EPlayerRole::VE_Camper",
-    "Name": "Laurie Strode",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/DLC2/CharacterDescriptionDB.uasset"
   }
 ]

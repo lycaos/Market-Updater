@@ -1,74 +1,82 @@
 [
   {
+    "Name": "FireflyLantern",
+    "Quantity": 8
+  },
+  {
     "Name": "Item_Camper_AlexsToolbox",
-    "Quantity": 50
+    "Quantity": 71
   },
   {
     "Name": "Item_Camper_BeigeMap",
-    "Quantity": 50
+    "Quantity": 77
   },
   {
     "Name": "Item_Camper_BrokenKey",
-    "Quantity": 50
+    "Quantity": 80
   },
   {
     "Name": "Item_Camper_CommodiousToolbox",
-    "Quantity": 50
+    "Quantity": 55
   },
   {
     "Name": "Item_Camper_DullKey",
-    "Quantity": 50
+    "Quantity": 87
   },
   {
     "Name": "Item_Camper_EngineerToolbox",
-    "Quantity": 50
+    "Quantity": 25
   },
   {
     "Name": "Item_Camper_Flashlight",
-    "Quantity": 50
+    "Quantity": 59
   },
   {
     "Name": "Item_Camper_Flashlight02",
-    "Quantity": 50
+    "Quantity": 82
   },
   {
     "Name": "Item_Camper_Flashlight03",
-    "Quantity": 50
+    "Quantity": 49
   },
   {
     "Name": "Item_Camper_Key",
-    "Quantity": 50
+    "Quantity": 11
   },
   {
     "Name": "Item_Camper_MechanicsToolbox",
-    "Quantity": 50
+    "Quantity": 67
   },
   {
     "Name": "Item_Camper_MedKit",
-    "Quantity": 50
+    "Quantity": 48
   },
   {
     "Name": "Item_Camper_MedKit02",
-    "Quantity": 50
+    "Quantity": 64
   },
   {
     "Name": "Item_Camper_MedKit03",
-    "Quantity": 50
+    "Quantity": 38
   },
   {
     "Name": "Item_Camper_MedKit04",
-    "Quantity": 50
+    "Quantity": 21
   },
   {
     "Name": "Item_Camper_RainbowMap",
-    "Quantity": 50
+    "Quantity": 64
   },
   {
     "Name": "Item_Camper_Toolbox",
-    "Quantity": 50
+    "Quantity": 60
   },
   {
     "Name": "Item_Camper_WornoutToolbox",
-    "Quantity": 50
+    "Quantity": 41
+  },
+  {
+    "Name": "Item_Camper_VoidBomb_Halloween2024",
+    "Quantity": 37
   }
 ]

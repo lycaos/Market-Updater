@@ -1,5 +1,15 @@
 [
   {
+    "ItemId": "FireflyLantern",
+    "Rarity": "EItemRarity::None",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "FireflyV1",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Candelabra",
+    "FilePath": "DeadByDaylight/Plugins/Runtime/Bhvr/DBDGameModes/Firefly/Content/Data/Game/ItemDB.uasset"
+  },
+  {
     "ItemId": "Item_Camper_AlexsToolbox",
     "Rarity": "EItemRarity::VeryRare",
     "Availability": "EItemAvailability::Available",
@@ -178,5 +188,15 @@
     "CharacterType": "EPlayerRole::VE_Camper",
     "Name": "Worn-out Tools",
     "FilePath": "DeadByDaylight/Content/Data/ItemDB.uasset"
+  },
+  {
+    "ItemId": "Item_Camper_VoidBomb_Halloween2024",
+    "Rarity": "EItemRarity::SpecialEvent",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": false,
+    "EventId": "Halloween2024",
+    "CharacterType": "EPlayerRole::VE_Camper",
+    "Name": "Void Crystal",
+    "FilePath": "DeadByDaylight/Content/Data/Events/Fudge/ItemDB.uasset"
   }
 ]

@@ -152,7 +152,7 @@
   {
     "ItemId": "CypressMementoMori",
     "Rarity": "EItemRarity::Uncommon",
-    "Availability": "EItemAvailability::Available",
+    "Availability": "EItemAvailability::Retired",
     "ShouldBeInInventory": true,
     "EventId": "None",
     "CharacterType": "EPlayerRole::VE_Slasher",
@@ -620,6 +620,16 @@
     "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
   },
   {
+    "ItemId": "Winter2024Offering",
+    "Rarity": "EItemRarity::SpecialEvent",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "Winter2024",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "MISTLE TOES",
+    "FilePath": "DeadByDaylight/Content/Data/Events/Gelato/OfferingDB.uasset"
+  },
+  {
     "ItemId": "ThePiedPiper",
     "Rarity": "EItemRarity::Rare",
     "Availability": "EItemAvailability::Available",
@@ -630,128 +640,38 @@
     "FilePath": "DeadByDaylight/Content/Data/Dlc/England/OfferingDB.uasset"
   },
   {
-    "ItemId": "UkraineThemeOffering",
+    "ItemId": "WalesThemeOffering",
     "Rarity": "EItemRarity::Rare",
     "Availability": "EItemAvailability::Available",
     "ShouldBeInInventory": true,
     "EventId": "None",
     "CharacterType": "EPlayerRole::VE_None",
-    "Name": "Shattered Bottle",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/Ukraine/OfferingDB.uasset"
+    "Name": "Mary’s Letter",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Wales/OfferingDB.uasset"
   },
   {
-    "ItemId": "QuantumThemeOffering",
+    "ItemId": "WormholeThemeOffering",
     "Rarity": "EItemRarity::Rare",
     "Availability": "EItemAvailability::Available",
     "ShouldBeInInventory": true,
     "EventId": "None",
     "CharacterType": "EPlayerRole::VE_None",
-    "Name": "Beef Tallow Mixture",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/Quantum/OfferingDB.uasset"
+    "Name": "Airlock Doors",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Wormhole/OfferingDB.uasset"
   },
   {
-    "ItemId": "KenyaThemeOffering",
+    "ItemId": "StrodeRealtyKey",
     "Rarity": "EItemRarity::Rare",
     "Availability": "EItemAvailability::Available",
     "ShouldBeInInventory": true,
     "EventId": "None",
     "CharacterType": "EPlayerRole::VE_None",
-    "Name": "Damaged Photo",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/Kenya/OfferingDB.uasset"
-  },
-  {
-    "ItemId": "TheLastMask",
-    "Rarity": "EItemRarity::Rare",
-    "Availability": "EItemAvailability::Available",
-    "ShouldBeInInventory": true,
-    "EventId": "None",
-    "CharacterType": "EPlayerRole::VE_None",
-    "Name": "The Last Mask",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/DLC5/OfferingDB.uasset"
-  },
-  {
-    "ItemId": "MeteorThemeOffering",
-    "Rarity": "EItemRarity::Rare",
-    "Availability": "EItemAvailability::Available",
-    "ShouldBeInInventory": true,
-    "EventId": "None",
-    "CharacterType": "EPlayerRole::VE_None",
-    "Name": "Ichorous Loam",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/Meteor/OfferingDB.uasset"
-  },
-  {
-    "ItemId": "JapaneseCountrySide",
-    "Rarity": "EItemRarity::Rare",
-    "Availability": "EItemAvailability::Available",
-    "ShouldBeInInventory": true,
-    "EventId": "None",
-    "CharacterType": "EPlayerRole::VE_None",
-    "Name": "Yamaoka Family Crest",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/Haiti/OfferingDB.uasset"
-  },
-  {
-    "ItemId": "UmbraThemeOffering",
-    "Rarity": "EItemRarity::Rare",
-    "Availability": "EItemAvailability::Available",
-    "ShouldBeInInventory": true,
-    "EventId": "None",
-    "CharacterType": "EPlayerRole::VE_None",
-    "Name": "Alien Flora",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/Umbra/OfferingDB.uasset"
-  },
-  {
-    "ItemId": "EclipseThemeOffering",
-    "Rarity": "EItemRarity::Rare",
-    "Availability": "EItemAvailability::Available",
-    "ShouldBeInInventory": true,
-    "EventId": "None",
-    "CharacterType": "EPlayerRole::VE_None",
-    "Name": "RPD Badge",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/Eclipse/OfferingDB.uasset"
-  },
-  {
-    "ItemId": "QatarThemeOffering",
-    "Rarity": "EItemRarity::Rare",
-    "Availability": "EItemAvailability::Available",
-    "ShouldBeInInventory": true,
-    "EventId": "None",
-    "CharacterType": "EPlayerRole::VE_None",
-    "Name": "Hawkins National Laboratory I.D. ",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/Qatar/OfferingDB.uasset"
-  },
-  {
-    "ItemId": "ShatteredGlasses",
-    "Rarity": "EItemRarity::Rare",
-    "Availability": "EItemAvailability::Available",
-    "ShouldBeInInventory": true,
-    "EventId": "None",
-    "CharacterType": "EPlayerRole::VE_None",
-    "Name": "Shattered Glasses",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/DLC4/OfferingDB.uasset"
-  },
-  {
-    "ItemId": "IonThemeOffering",
-    "Rarity": "EItemRarity::Rare",
-    "Availability": "EItemAvailability::Available",
-    "ShouldBeInInventory": true,
-    "EventId": "None",
-    "CharacterType": "EPlayerRole::VE_None",
-    "Name": "Crow's Eye",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/Ion/OfferingDB.uasset"
-  },
-  {
-    "ItemId": "Jigsawpiece",
-    "Rarity": "EItemRarity::Rare",
-    "Availability": "EItemAvailability::Available",
-    "ShouldBeInInventory": true,
-    "EventId": "None",
-    "CharacterType": "EPlayerRole::VE_None",
-    "Name": "Jigsaw Piece",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/Finland/OfferingDB.uasset"
+    "Name": "Strode Realty Key",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/DLC2/OfferingDB.uasset"
   },
   {
     "ItemId": "SacrificalWard",
-    "Rarity": "EItemRarity::Rare",
+    "Rarity": "EItemRarity::Common",
     "Availability": "EItemAvailability::Available",
     "ShouldBeInInventory": true,
     "EventId": "None",
@@ -800,33 +720,123 @@
     "FilePath": "DeadByDaylight/Content/Data/Dlc/Yemen/OfferingDB.uasset"
   },
   {
-    "ItemId": "WalesThemeOffering",
+    "ItemId": "UmbraThemeOffering",
     "Rarity": "EItemRarity::Rare",
     "Availability": "EItemAvailability::Available",
     "ShouldBeInInventory": true,
     "EventId": "None",
     "CharacterType": "EPlayerRole::VE_None",
-    "Name": "Mary’s Letter",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/Wales/OfferingDB.uasset"
+    "Name": "Alien Flora",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Umbra/OfferingDB.uasset"
   },
   {
-    "ItemId": "WormholeThemeOffering",
+    "ItemId": "JapaneseCountrySide",
     "Rarity": "EItemRarity::Rare",
     "Availability": "EItemAvailability::Available",
     "ShouldBeInInventory": true,
     "EventId": "None",
     "CharacterType": "EPlayerRole::VE_None",
-    "Name": "Airlock Doors",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/Wormhole/OfferingDB.uasset"
+    "Name": "Yamaoka Family Crest",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Haiti/OfferingDB.uasset"
   },
   {
-    "ItemId": "StrodeRealtyKey",
+    "ItemId": "TheLastMask",
     "Rarity": "EItemRarity::Rare",
     "Availability": "EItemAvailability::Available",
     "ShouldBeInInventory": true,
     "EventId": "None",
     "CharacterType": "EPlayerRole::VE_None",
-    "Name": "Strode Realty Key",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/DLC2/OfferingDB.uasset"
+    "Name": "The Last Mask",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/DLC5/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "MeteorThemeOffering",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "Ichorous Loam",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Meteor/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "Jigsawpiece",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "Jigsaw Piece",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Finland/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "EclipseThemeOffering",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "RPD Badge",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Eclipse/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "IonThemeOffering",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "Crow's Eye",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Ion/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "UkraineThemeOffering",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "Shattered Bottle",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Ukraine/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "QuantumThemeOffering",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "Beef Tallow Mixture",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Quantum/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "ShatteredGlasses",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "Shattered Glasses",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/DLC4/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "KenyaThemeOffering",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "Damaged Photo",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Kenya/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "QatarThemeOffering",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "Hawkins National Laboratory I.D. ",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Qatar/OfferingDB.uasset"
   }
 ]
