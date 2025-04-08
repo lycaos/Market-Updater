@@ -1,82 +1,194 @@
 [
   {
+    "Name": "Item_Camper_OnryoTape",
+    "Quantity": 42
+  },
+  {
+    "Name": "Item_Camper_K33Turret",
+    "Quantity": 61
+  },
+  {
+    "Name": "Item_Camper_ContaminationSerum",
+    "Quantity": 68
+  },
+  {
+    "Name": "Item_Camper_K29InfectionRemover",
+    "Quantity": 15
+  },
+  {
+    "Name": "Item_Camper_K36MagicItem_Bracers",
+    "Quantity": 30
+  },
+  {
+    "Name": "Item_Camper_K36MagicItem_Boots",
+    "Quantity": 42
+  },
+  {
+    "Name": "Item_Camper_K36MagicItem_VecnaEye",
+    "Quantity": 26
+  },
+  {
+    "Name": "Item_Camper_K36MagicItem_VecnaHand",
+    "Quantity": 33
+  },
+  {
     "Name": "FireflyLantern",
-    "Quantity": 8
+    "Quantity": 68
+  },
+  {
+    "Name": "Item_Camper_K29InfectionRemover",
+    "Quantity": 68
   },
   {
     "Name": "Item_Camper_AlexsToolbox",
-    "Quantity": 71
+    "Quantity": 9
   },
   {
     "Name": "Item_Camper_BeigeMap",
-    "Quantity": 77
+    "Quantity": 51
   },
   {
     "Name": "Item_Camper_BrokenKey",
-    "Quantity": 80
+    "Quantity": 65
   },
   {
     "Name": "Item_Camper_CommodiousToolbox",
-    "Quantity": 55
-  },
-  {
-    "Name": "Item_Camper_DullKey",
     "Quantity": 87
   },
   {
+    "Name": "Item_Camper_DullKey",
+    "Quantity": 61
+  },
+  {
     "Name": "Item_Camper_EngineerToolbox",
-    "Quantity": 25
+    "Quantity": 8
+  },
+  {
+    "Name": "Item_Camper_Firecracker_Chinese",
+    "Quantity": 78
   },
   {
     "Name": "Item_Camper_Flashlight",
-    "Quantity": 59
+    "Quantity": 29
   },
   {
     "Name": "Item_Camper_Flashlight02",
-    "Quantity": 82
+    "Quantity": 34
   },
   {
     "Name": "Item_Camper_Flashlight03",
-    "Quantity": 49
+    "Quantity": 31
   },
   {
     "Name": "Item_Camper_Key",
-    "Quantity": 11
+    "Quantity": 31
   },
   {
     "Name": "Item_Camper_MechanicsToolbox",
-    "Quantity": 67
+    "Quantity": 42
   },
   {
     "Name": "Item_Camper_MedKit",
-    "Quantity": 48
+    "Quantity": 13
   },
   {
     "Name": "Item_Camper_MedKit02",
-    "Quantity": 64
+    "Quantity": 34
   },
   {
     "Name": "Item_Camper_MedKit03",
-    "Quantity": 38
+    "Quantity": 63
   },
   {
     "Name": "Item_Camper_MedKit04",
-    "Quantity": 21
+    "Quantity": 72
   },
   {
     "Name": "Item_Camper_RainbowMap",
-    "Quantity": 64
+    "Quantity": 36
   },
   {
     "Name": "Item_Camper_Toolbox",
-    "Quantity": 60
+    "Quantity": 66
   },
   {
     "Name": "Item_Camper_WornoutToolbox",
-    "Quantity": 41
+    "Quantity": 85
+  },
+  {
+    "Name": "Item_Camper_Map_Spring2024",
+    "Quantity": 64
+  },
+  {
+    "Name": "Item_Camper_JerryCan_Spring2025",
+    "Quantity": 69
   },
   {
     "Name": "Item_Camper_VoidBomb_Halloween2024",
-    "Quantity": 37
+    "Quantity": 87
+  },
+  {
+    "Name": "Item_Camper_Flashlight_Anniversary2022",
+    "Quantity": 39
+  },
+  {
+    "Name": "Item_Camper_Medkit_Anniversary2022",
+    "Quantity": 66
+  },
+  {
+    "Name": "Item_Camper_Toolbox_Anniversary2022",
+    "Quantity": 50
+  },
+  {
+    "Name": "Item_Camper_LunarToolbox",
+    "Quantity": 65
+  },
+  {
+    "Name": "Item_Camper_Flashlight_Anniversary2020",
+    "Quantity": 31
+  },
+  {
+    "Name": "Item_Camper_Medkit_Anniversary2020",
+    "Quantity": 11
+  },
+  {
+    "Name": "Item_Camper_Flashlight04",
+    "Quantity": 56
+  },
+  {
+    "Name": "Item_Camper_Medkit05",
+    "Quantity": 76
+  },
+  {
+    "Name": "Item_Camper_Firecracker_Flashbang",
+    "Quantity": 20
+  },
+  {
+    "Name": "Item_Blighted_Serum",
+    "Quantity": 81
+  },
+  {
+    "Name": "Father_Key_Card",
+    "Quantity": 55
+  },
+  {
+    "Name": "Item_FragileObject",
+    "Quantity": 24
+  },
+  {
+    "Name": "Item_Camper_AnniversaryToolbox",
+    "Quantity": 27
+  },
+  {
+    "Name": "Item_Camper_Firecracker_WinterEvent",
+    "Quantity": 75
+  },
+  {
+    "Name": "Item_Camper_K32Emp",
+    "Quantity": 70
+  },
+  {
+    "Name": "Item_Camper_Firecracker_Anniversary2019",
+    "Quantity": 8
   }
 ]
