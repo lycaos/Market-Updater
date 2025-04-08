@@ -1,5 +1,15 @@
 [
   {
+    "ItemId": "BoneSplinter",
+    "Rarity": "EItemRarity::UltraRare",
+    "Availability": "EItemAvailability::Retired",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Bone Splinter",
+    "FilePath": "DeadByDaylight/Plugins/DBDCharacters/K09/Content/Data/Game/OfferingDB.uasset"
+  },
+  {
     "ItemId": "ArdentRavenWreath",
     "Rarity": "EItemRarity::Rare",
     "Availability": "EItemAvailability::Available",
@@ -90,6 +100,16 @@
     "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
   },
   {
+    "ItemId": "CattleTag28",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Retired",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "Cattle Tag-28",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
     "ItemId": "ChalkPouch",
     "Rarity": "EItemRarity::Common",
     "Availability": "EItemAvailability::Available",
@@ -120,6 +140,16 @@
     "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
   },
   {
+    "ItemId": "ColdwindCattleTag81",
+    "Rarity": "EItemRarity::Uncommon",
+    "Availability": "EItemAvailability::Retired",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "Coldwind Cattle Tag-81",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
     "ItemId": "CreamChalkPouch",
     "Rarity": "EItemRarity::Uncommon",
     "Availability": "EItemAvailability::Available",
@@ -127,6 +157,16 @@
     "EventId": "None",
     "CharacterType": "EPlayerRole::VE_Camper",
     "Name": "Cream Chalk Pouch",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "CrescentMoonBouquet",
+    "Rarity": "EItemRarity::Uncommon",
+    "Availability": "EItemAvailability::Retired",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "Crescent Moon Bouquet",
     "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
   },
   {
@@ -300,6 +340,16 @@
     "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
   },
   {
+    "ItemId": "FullMoonBouquet",
+    "Rarity": "EItemRarity::VeryRare",
+    "Availability": "EItemAvailability::Retired",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "Full Moon Bouquet",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
     "ItemId": "HazyReagent",
     "Rarity": "EItemRarity::Uncommon",
     "Availability": "EItemAvailability::Available",
@@ -350,6 +400,26 @@
     "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
   },
   {
+    "ItemId": "LunacyTicket",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Retired",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "Lunacy Ticket",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "MacmillanLedgerPage",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Retired",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "MacMillan Ledger Page",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
     "ItemId": "MacMillanPhalanxBone",
     "Rarity": "EItemRarity::Rare",
     "Availability": "EItemAvailability::Available",
@@ -380,6 +450,26 @@
     "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
   },
   {
+    "ItemId": "NewMoonBouquet",
+    "Rarity": "EItemRarity::UltraRare",
+    "Availability": "EItemAvailability::Retired",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "New Moon Bouquet",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "PElliotLunacyTicket",
+    "Rarity": "EItemRarity::Uncommon",
+    "Availability": "EItemAvailability::Retired",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "P.Elliott Lunacy Ticket",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
     "ItemId": "PetrifiedOak",
     "Rarity": "EItemRarity::VeryRare",
     "Availability": "EItemAvailability::Available",
@@ -407,6 +497,16 @@
     "EventId": "None",
     "CharacterType": "EPlayerRole::VE_Slasher",
     "Name": "Putrid Oak",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "QuarterMoonBouquet",
+    "Rarity": "EItemRarity::Uncommon",
+    "Availability": "EItemAvailability::Retired",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "Quarter Moon Bouquet",
     "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
   },
   {
@@ -470,6 +570,16 @@
     "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
   },
   {
+    "ItemId": "ShreddedPlate",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Retired",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "Shredded Plate",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
     "ItemId": "ShrikeWreath",
     "Rarity": "EItemRarity::Common",
     "Availability": "EItemAvailability::Available",
@@ -507,6 +617,16 @@
     "EventId": "None",
     "CharacterType": "EPlayerRole::VE_Camper",
     "Name": "Shroud of Union",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "SignedLedgerPage",
+    "Rarity": "EItemRarity::Uncommon",
+    "Availability": "EItemAvailability::Retired",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "Signed Ledger Page",
     "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
   },
   {
@@ -560,6 +680,16 @@
     "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
   },
   {
+    "ItemId": "VirginiaPlate",
+    "Rarity": "EItemRarity::Uncommon",
+    "Availability": "EItemAvailability::Retired",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "Virginia Plate",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
     "ItemId": "WhiteWard",
     "Rarity": "EItemRarity::VeryRare",
     "Availability": "EItemAvailability::Available",
@@ -577,6 +707,36 @@
     "EventId": "None",
     "CharacterType": "EPlayerRole::VE_Camper",
     "Name": "Vigo's Jar of Salty Lips",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "MuddySplinter",
+    "Rarity": "EItemRarity::UltraRare",
+    "Availability": "EItemAvailability::Retired",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Muddy Splinter",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "FumingCordage",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Retired",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "Fuming Cordage",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "FumingWelcomeSign",
+    "Rarity": "EItemRarity::Uncommon",
+    "Availability": "EItemAvailability::Retired",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "Fuming Welcome Sign",
     "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
   },
   {
@@ -620,6 +780,56 @@
     "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
   },
   {
+    "ItemId": "Anniversary2019Offering",
+    "Rarity": "EItemRarity::SpecialEvent",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "Anniversary2019",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "Gruesome Gateau",
+    "FilePath": "DeadByDaylight/Content/Data/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "Spring2024Offering",
+    "Rarity": "EItemRarity::SpecialEvent",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "Spring2025",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "Bloodshot Eye",
+    "FilePath": "DeadByDaylight/Content/Data/Events/ApplePie/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "Anniversary2024Offering",
+    "Rarity": "EItemRarity::SpecialEvent",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "Anniversary2024",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "SCREECH COBBLER",
+    "FilePath": "DeadByDaylight/Content/Data/Events/Churros/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "Anniversary2022Offering",
+    "Rarity": "EItemRarity::SpecialEvent",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "Anniversary2022",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "Frightful Flan",
+    "FilePath": "DeadByDaylight/Content/Data/Events/Meteor/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "Anniversary2023Offering",
+    "Rarity": "EItemRarity::SpecialEvent",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "Anniversary2023",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "TERRORMISU",
+    "FilePath": "DeadByDaylight/Content/Data/Events/Umbra/OfferingDB.uasset"
+  },
+  {
     "ItemId": "Winter2024Offering",
     "Rarity": "EItemRarity::SpecialEvent",
     "Availability": "EItemAvailability::Available",
@@ -630,24 +840,104 @@
     "FilePath": "DeadByDaylight/Content/Data/Events/Gelato/OfferingDB.uasset"
   },
   {
-    "ItemId": "ThePiedPiper",
-    "Rarity": "EItemRarity::Rare",
+    "ItemId": "Halloween2022Offering",
+    "Rarity": "EItemRarity::SpecialEvent",
     "Availability": "EItemAvailability::Available",
     "ShouldBeInInventory": true,
-    "EventId": "None",
+    "EventId": "Halloween2024",
     "CharacterType": "EPlayerRole::VE_None",
-    "Name": "The Pied Piper",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/England/OfferingDB.uasset"
+    "Name": "Arcane Dowsing Rod",
+    "FilePath": "DeadByDaylight/Content/Data/Events/Pluto/OfferingDB.uasset"
   },
   {
-    "ItemId": "WalesThemeOffering",
+    "ItemId": "Anniversary2020Offering",
+    "Rarity": "EItemRarity::SpecialEvent",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "Anniversary2020",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "Ghastly Gateau",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Anniversary2020/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "SummerOffering",
+    "Rarity": "EItemRarity::SpecialEvent",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "Summer2023",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "BBQ Invitation",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/SummerEvent/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "EclipseThemeOffering",
     "Rarity": "EItemRarity::Rare",
     "Availability": "EItemAvailability::Available",
     "ShouldBeInInventory": true,
     "EventId": "None",
     "CharacterType": "EPlayerRole::VE_None",
-    "Name": "Mary’s Letter",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/Wales/OfferingDB.uasset"
+    "Name": "RPD Badge",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Eclipse/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "HalloweenOffering",
+    "Rarity": "EItemRarity::SpecialEvent",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "Halloween2020",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "Pustula Petals",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/HalloweenEvent/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "Halloween2021Offering",
+    "Rarity": "EItemRarity::SpecialEvent",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "Halloween2021",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "Cursed Seed",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/HalloweenEvent2021/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "RedMoney",
+    "Rarity": "EItemRarity::SpecialEvent",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "Lunar2023",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "Red Envelope",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/LunarEvent/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "PaintedRiverRock",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Retired",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "Painted River Rock",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/DLC5/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "ChildrensBook",
+    "Rarity": "EItemRarity::Uncommon",
+    "Availability": "EItemAvailability::Retired",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "Children's Book",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/DLC5/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "TheLastMask",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "The Last Mask",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/DLC5/OfferingDB.uasset"
   },
   {
     "ItemId": "WormholeThemeOffering",
@@ -660,14 +950,64 @@
     "FilePath": "DeadByDaylight/Content/Data/Dlc/Wormhole/OfferingDB.uasset"
   },
   {
-    "ItemId": "StrodeRealtyKey",
+    "ItemId": "JapaneseCountrySide",
     "Rarity": "EItemRarity::Rare",
     "Availability": "EItemAvailability::Available",
     "ShouldBeInInventory": true,
     "EventId": "None",
     "CharacterType": "EPlayerRole::VE_None",
-    "Name": "Strode Realty Key",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/DLC2/OfferingDB.uasset"
+    "Name": "Yamaoka Family Crest",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Haiti/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "ShockSplinter",
+    "Rarity": "EItemRarity::UltraRare",
+    "Availability": "EItemAvailability::Retired",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Shock Splinter",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/DLC4/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "EmergencyCertificate",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Retired",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "Emergency Certificate",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/DLC4/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "PsychiatricAssessmentReport",
+    "Rarity": "EItemRarity::Uncommon",
+    "Availability": "EItemAvailability::Retired",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "Psychiatric Assessment Report",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/DLC4/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "ShatteredGlasses",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "Shattered Glasses",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/DLC4/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "Anniversary2021Offering",
+    "Rarity": "EItemRarity::SpecialEvent",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "Anniversary2021",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "Sacrificial Cake",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Anniversary2021/OfferingDB.uasset"
   },
   {
     "ItemId": "SacrificalWard",
@@ -720,74 +1060,14 @@
     "FilePath": "DeadByDaylight/Content/Data/Dlc/Yemen/OfferingDB.uasset"
   },
   {
-    "ItemId": "UmbraThemeOffering",
+    "ItemId": "WalesThemeOffering",
     "Rarity": "EItemRarity::Rare",
     "Availability": "EItemAvailability::Available",
     "ShouldBeInInventory": true,
     "EventId": "None",
     "CharacterType": "EPlayerRole::VE_None",
-    "Name": "Alien Flora",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/Umbra/OfferingDB.uasset"
-  },
-  {
-    "ItemId": "JapaneseCountrySide",
-    "Rarity": "EItemRarity::Rare",
-    "Availability": "EItemAvailability::Available",
-    "ShouldBeInInventory": true,
-    "EventId": "None",
-    "CharacterType": "EPlayerRole::VE_None",
-    "Name": "Yamaoka Family Crest",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/Haiti/OfferingDB.uasset"
-  },
-  {
-    "ItemId": "TheLastMask",
-    "Rarity": "EItemRarity::Rare",
-    "Availability": "EItemAvailability::Available",
-    "ShouldBeInInventory": true,
-    "EventId": "None",
-    "CharacterType": "EPlayerRole::VE_None",
-    "Name": "The Last Mask",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/DLC5/OfferingDB.uasset"
-  },
-  {
-    "ItemId": "MeteorThemeOffering",
-    "Rarity": "EItemRarity::Rare",
-    "Availability": "EItemAvailability::Available",
-    "ShouldBeInInventory": true,
-    "EventId": "None",
-    "CharacterType": "EPlayerRole::VE_None",
-    "Name": "Ichorous Loam",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/Meteor/OfferingDB.uasset"
-  },
-  {
-    "ItemId": "Jigsawpiece",
-    "Rarity": "EItemRarity::Rare",
-    "Availability": "EItemAvailability::Available",
-    "ShouldBeInInventory": true,
-    "EventId": "None",
-    "CharacterType": "EPlayerRole::VE_None",
-    "Name": "Jigsaw Piece",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/Finland/OfferingDB.uasset"
-  },
-  {
-    "ItemId": "EclipseThemeOffering",
-    "Rarity": "EItemRarity::Rare",
-    "Availability": "EItemAvailability::Available",
-    "ShouldBeInInventory": true,
-    "EventId": "None",
-    "CharacterType": "EPlayerRole::VE_None",
-    "Name": "RPD Badge",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/Eclipse/OfferingDB.uasset"
-  },
-  {
-    "ItemId": "IonThemeOffering",
-    "Rarity": "EItemRarity::Rare",
-    "Availability": "EItemAvailability::Available",
-    "ShouldBeInInventory": true,
-    "EventId": "None",
-    "CharacterType": "EPlayerRole::VE_None",
-    "Name": "Crow's Eye",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/Ion/OfferingDB.uasset"
+    "Name": "Mary’s Letter",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Wales/OfferingDB.uasset"
   },
   {
     "ItemId": "UkraineThemeOffering",
@@ -800,6 +1080,96 @@
     "FilePath": "DeadByDaylight/Content/Data/Dlc/Ukraine/OfferingDB.uasset"
   },
   {
+    "ItemId": "MeteorThemeOffering",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "Ichorous Loam",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Meteor/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "BlackSplinter",
+    "Rarity": "EItemRarity::UltraRare",
+    "Availability": "EItemAvailability::Retired",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Black Splinter",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/DLC2/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "StrodeRealtyKey",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "Strode Realty Key",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/DLC2/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "DecrepitClapboard",
+    "Rarity": "EItemRarity::Uncommon",
+    "Availability": "EItemAvailability::Retired",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "Decrepit Clapboard",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/DLC2/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "HarvestFestivalLeaflet",
+    "Rarity": "EItemRarity::Common",
+    "Availability": "EItemAvailability::Retired",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "Harvest Festival Leaflet",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/DLC2/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "GlassSplinter",
+    "Rarity": "EItemRarity::UltraRare",
+    "Availability": "EItemAvailability::Retired",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Glass Splinter",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Finland/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "Jigsawpiece",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "Jigsaw Piece",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Finland/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "IonThemeOffering",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "Crow's Eye",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Ion/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "UmbraThemeOffering",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "Alien Flora",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Umbra/OfferingDB.uasset"
+  },
+  {
     "ItemId": "QuantumThemeOffering",
     "Rarity": "EItemRarity::Rare",
     "Availability": "EItemAvailability::Available",
@@ -810,14 +1180,34 @@
     "FilePath": "DeadByDaylight/Content/Data/Dlc/Quantum/OfferingDB.uasset"
   },
   {
-    "ItemId": "ShatteredGlasses",
+    "ItemId": "QatarThemeOffering",
     "Rarity": "EItemRarity::Rare",
     "Availability": "EItemAvailability::Available",
     "ShouldBeInInventory": true,
     "EventId": "None",
     "CharacterType": "EPlayerRole::VE_None",
-    "Name": "Shattered Glasses",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/DLC4/OfferingDB.uasset"
+    "Name": "Hawkins National Laboratory I.D. ",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/Qatar/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "SmokingSplinter",
+    "Rarity": "EItemRarity::UltraRare",
+    "Availability": "EItemAvailability::Retired",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_Slasher",
+    "Name": "Smoking Splinter",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/England/OfferingDB.uasset"
+  },
+  {
+    "ItemId": "ThePiedPiper",
+    "Rarity": "EItemRarity::Rare",
+    "Availability": "EItemAvailability::Available",
+    "ShouldBeInInventory": true,
+    "EventId": "None",
+    "CharacterType": "EPlayerRole::VE_None",
+    "Name": "The Pied Piper",
+    "FilePath": "DeadByDaylight/Content/Data/Dlc/England/OfferingDB.uasset"
   },
   {
     "ItemId": "KenyaThemeOffering",
@@ -828,15 +1218,5 @@
     "CharacterType": "EPlayerRole::VE_None",
     "Name": "Damaged Photo",
     "FilePath": "DeadByDaylight/Content/Data/Dlc/Kenya/OfferingDB.uasset"
-  },
-  {
-    "ItemId": "QatarThemeOffering",
-    "Rarity": "EItemRarity::Rare",
-    "Availability": "EItemAvailability::Available",
-    "ShouldBeInInventory": true,
-    "EventId": "None",
-    "CharacterType": "EPlayerRole::VE_None",
-    "Name": "Hawkins National Laboratory I.D. ",
-    "FilePath": "DeadByDaylight/Content/Data/Dlc/Qatar/OfferingDB.uasset"
   }
 ]
